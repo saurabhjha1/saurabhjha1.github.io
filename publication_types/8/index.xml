@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</title>
+    <link>http://saurabhjha.in/publication_types/8/</link>
+    <description>Recent content in 8 on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Saurabh Jha</copyright>
+    <lastBuildDate>Wed, 19 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://saurabhjha.in/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploiting data parallelism in the yConvex hypergraph algorithm for image representation using GPGPUs</title>
+      <link>http://saurabhjha.in/publication/ics/</link>
+      <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/ics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-HGRMS: A Parallel Hypergraph Based Root Mean Square Algorithm for Image Denoising</title>
+      <link>http://saurabhjha.in/publication/phgrms/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/phgrms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

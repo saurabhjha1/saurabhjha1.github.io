@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</title>
+    <link>http://saurabhjha.in/publication_types/7/</link>
+    <description>Recent content in 7 on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Saurabh Jha</copyright>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://saurabhjha.in/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kayotee: A Fault Injection-based System to Assess  the Safety and Reliability of Autonomous Vehicles to  Faults and Errors</title>
+      <link>http://saurabhjha.in/publication/kayotee/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/kayotee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Supercomputer Traffic Networks Through Link-Level Analysis</title>
+      <link>http://saurabhjha.in/publication/traffic-char/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/traffic-char/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Measurement-Driven System Assessment</title>
+      <link>http://saurabhjha.in/publication/hmdsa/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/hmdsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Fault Scenarios and Impacts through Fault Injection Experiments in Cielo</title>
+      <link>http://saurabhjha.in/publication/cielo_fi/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/cielo_fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Gemini Interconnect Recovery Mechanisms: Methods and Observations</title>
+      <link>http://saurabhjha.in/publication/network-method/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/network-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
+      <link>http://saurabhjha.in/publication/logdiver/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/logdiver/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

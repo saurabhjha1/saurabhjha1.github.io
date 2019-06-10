@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</title>
+    <link>http://saurabhjha.in/award/</link>
+    <description>Recent content in Awards on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Saurabh Jha</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://saurabhjha.in/award/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research on Safety and Reliability of Autonomous Vehicles</title>
+      <link>http://saurabhjha.in/award/nvidia_auto/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/nvidia_auto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-driven Continuous Assessment of of High-Performance Datacenters at Scale</title>
+      <link>http://saurabhjha.in/award/sandia_grant/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/sandia_grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teachers Ranked at Excellent</title>
+      <link>http://saurabhjha.in/award/ta_excellent/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/ta_excellent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Monitoring and Diagnosis of Large-Scale Application Performance Degradation</title>
+      <link>http://saurabhjha.in/award/bw_grant3/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/bw_grant3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Performance Degradation and Failures of Application Through System Activity Monitoring</title>
+      <link>http://saurabhjha.in/award/bw_grant2/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/bw_grant2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resiliency For eXtreme Scale Systems</title>
+      <link>http://saurabhjha.in/award/csl_bpa/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/csl_bpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient, Scalable, and Fault Tolerant Genomics Pipelines</title>
+      <link>http://saurabhjha.in/award/bw_grant/</link>
+      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/bw_grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Student Award</title>
+      <link>http://saurabhjha.in/award/best_student/</link>
+      <pubDate>Sat, 31 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/best_student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-HGRMS: A Parallel Hypergraph Based Root Mean Square Algorithm for Image Denoising</title>
+      <link>http://saurabhjha.in/award/hpc_bpa/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/award/hpc_bpa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

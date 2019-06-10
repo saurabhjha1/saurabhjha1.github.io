@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</title>
+    <link>http://saurabhjha.in/publication_types/2/</link>
+    <description>Recent content in 2 on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Saurabh Jha</copyright>
+    <lastBuildDate>Wed, 09 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://saurabhjha.in/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters</title>
+      <link>http://saurabhjha.in/publication/network-reliability/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://saurabhjha.in/publication/network-reliability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
