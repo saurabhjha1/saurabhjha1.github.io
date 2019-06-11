@@ -1,23 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</title>
-    <link>http://saurabhjha.in/tags/</link>
-    <description>Recent content in Tags on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</title>
+    <link>https://saurabhjha1.github.io/tags/</link>
+    <description>Recent content in Tags on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Saurabh Jha</copyright>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://saurabhjha.in/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://saurabhjha1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://saurabhjha.in/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>high performance computing; congestion</title>
+      <link>https://saurabhjha1.github.io/tags/high-performance-computing-congestion/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
+      <guid>https://saurabhjha1.github.io/tags/high-performance-computing-congestion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural; autonomous vehicles; self driving vehicles; safety assessment; fault injection; artificial intelligence</title>
+      <link>https://saurabhjha1.github.io/tags/neural-autonomous-vehicles-self-driving-vehicles-safety-assessment-fault-injection-artificial-intelligence/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/neural-autonomous-vehicles-self-driving-vehicles-safety-assessment-fault-injection-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural; fault injection; artificial intelligence</title>
+      <link>https://saurabhjha1.github.io/tags/neural-fault-injection-artificial-intelligence/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/neural-fault-injection-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hpc applications</title>
+      <link>https://saurabhjha1.github.io/tags/hpc-applications/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/hpc-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log analysis</title>
+      <link>https://saurabhjha1.github.io/tags/log-analysis/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/log-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cuda</title>
+      <link>https://saurabhjha1.github.io/tags/cuda/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/cuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mirrored traveling tournament problem</title>
+      <link>https://saurabhjha1.github.io/tags/mirrored-traveling-tournament-problem/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/mirrored-traveling-tournament-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel simulated annealing</title>
+      <link>https://saurabhjha1.github.io/tags/parallel-simulated-annealing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/parallel-simulated-annealing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sports league scheduling</title>
+      <link>https://saurabhjha1.github.io/tags/sports-league-scheduling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/sports-league-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gpgpu</title>
+      <link>https://saurabhjha1.github.io/tags/gpgpu/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/gpgpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image analysis</title>
+      <link>https://saurabhjha1.github.io/tags/image-analysis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/image-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel processing</title>
+      <link>https://saurabhjha1.github.io/tags/parallel-processing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/tags/parallel-processing/</guid>
+      <description></description>
     </item>
     
   </channel>

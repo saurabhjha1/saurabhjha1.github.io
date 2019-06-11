@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. T. Kramer on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</title>
+    <link>https://saurabhjha1.github.io/authors/w.-t.-kramer/</link>
+    <description>Recent content in W. T. Kramer on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://saurabhjha1.github.io/authors/w.-t.-kramer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empirical Study of Network Congestion in High-Performance Computing Systems</title>
+      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters</title>
+      <link>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

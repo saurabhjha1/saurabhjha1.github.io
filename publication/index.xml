@@ -1,149 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</title>
-    <link>http://saurabhjha.in/publication/</link>
-    <description>Recent content in Publications on Saurabh Jha - Ph.D. Candidate at University of Illinois at Urbana Champaign</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Publications on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</title>
+    <link>https://saurabhjha1.github.io/publication/</link>
+    <description>Recent content in Publications on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Saurabh Jha</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
     
-	<atom:link href="http://saurabhjha.in/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://saurabhjha1.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Empirical Study of Network Congestion in High-Performance Computing Systems</title>
+      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML-based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection </title>
+      <link>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks</title>
-      <link>http://saurabhjha.in/publication/dbfi/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/bdfi-dsn-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/dbfi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML-based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection</title>
-      <link>http://saurabhjha.in/publication/bfi/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://saurabhjha.in/publication/bfi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Holistic Measurement Driven System Assessment (HMDSA)</title>
-      <link>http://saurabhjha.in/publication/ecp/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://saurabhjha.in/publication/ecp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kayotee: A Fault Injection-based System to Assess  the Safety and Reliability of Autonomous Vehicles to  Faults and Errors</title>
-      <link>http://saurabhjha.in/publication/kayotee/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://saurabhjha.in/publication/kayotee/</guid>
+      <guid>https://saurabhjha1.github.io/publication/bdfi-dsn-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing Supercomputer Traffic Networks Through Link-Level Analysis</title>
-      <link>http://saurabhjha.in/publication/traffic-char/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/jha-cluster-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/traffic-char/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-cluster-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AVFI: Fault Injection for Autonomous Vehicles</title>
-      <link>http://saurabhjha.in/publication/avfi/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/avfi-dsn-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/avfi/</guid>
+      <guid>https://saurabhjha1.github.io/publication/avfi-dsn-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hands Off the Wheel in Autonomous Vehicles? A Systems Perspective on over a Million Miles of Field Data.</title>
-      <link>http://saurabhjha.in/publication/av-char/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data</title>
+      <link>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/av-char/</guid>
+      <guid>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Holistic Measurement-Driven System Assessment</title>
-      <link>http://saurabhjha.in/publication/hmdsa/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Kayotee : A Fault Injection-based System to Assess the Safety and Reliability of Autonomous Vehicles to Faults and Errors</title>
+      <link>https://saurabhjha1.github.io/publication/kayotee-art-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/hmdsa/</guid>
+      <guid>https://saurabhjha1.github.io/publication/kayotee-art-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters</title>
-      <link>http://saurabhjha.in/publication/network-reliability/</link>
-      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/network-reliability/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding Fault Scenarios and Impacts through Fault Injection Experiments in Cielo</title>
-      <link>http://saurabhjha.in/publication/cielo_fi/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <title>Holistic Measurement-Driven System Assessment</title>
+      <link>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/cielo_fi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of Gemini Interconnect Recovery Mechanisms: Methods and Observations</title>
-      <link>http://saurabhjha.in/publication/network-method/</link>
-      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://saurabhjha.in/publication/network-method/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
-      <link>http://saurabhjha.in/publication/logdiver/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://saurabhjha.in/publication/logdiver/</guid>
+      <guid>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach</title>
-      <link>http://saurabhjha.in/publication/main-memory-hj/</link>
-      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/jha-vldb-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/main-memory-hj/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-vldb-2015/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploiting data parallelism in the yConvex hypergraph algorithm for image representation using GPGPUs</title>
-      <link>http://saurabhjha.in/publication/ics/</link>
-      <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
+      <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
+      <link>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/ics/</guid>
+      <guid>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BbmTTP: Beat-based Parallel Simulated Annealing Algorithm on GPGPUs for the Mirrored Traveling Tournament Problem</title>
+      <link>https://saurabhjha1.github.io/publication/bbmttp-hpc-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/bbmttp-hpc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Data Parallelism in the yConvex Hypergraph Algorithm for Image Representation Using GPGPUs</title>
+      <link>https://saurabhjha1.github.io/publication/jha-ics-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-ics-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P-HGRMS: A Parallel Hypergraph Based Root Mean Square Algorithm for Image Denoising</title>
-      <link>http://saurabhjha.in/publication/phgrms/</link>
-      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/phgrms-hpdc-2013-/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://saurabhjha.in/publication/phgrms/</guid>
+      <guid>https://saurabhjha1.github.io/publication/phgrms-hpdc-2013-/</guid>
       <description></description>
     </item>
     

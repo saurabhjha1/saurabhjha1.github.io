@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Gentile on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</title>
+    <link>https://saurabhjha1.github.io/authors/a.-gentile/</link>
+    <description>Recent content in A. Gentile on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://saurabhjha1.github.io/authors/a.-gentile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empirical Study of Network Congestion in High-Performance Computing Systems</title>
+      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Supercomputer Traffic Networks Through Link-Level Analysis</title>
+      <link>https://saurabhjha1.github.io/publication/jha-cluster-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-cluster-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Measurement-Driven System Assessment</title>
+      <link>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ravishankar K. Iyer on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</title>
+    <link>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</link>
+    <description>Recent content in Ravishankar K. Iyer on Saurabh Jha: PhD Candidate at University of Illinois at Urbana Champaign (UIUC)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kayotee : A Fault Injection-based System to Assess the Safety and Reliability of Autonomous Vehicles to Faults and Errors</title>
+      <link>https://saurabhjha1.github.io/publication/kayotee-art-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/kayotee-art-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
+      <link>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
