@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -24,31 +23,3 @@
     
   </channel>
 </rss>
-||||||| merged common ancestors
-=======
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>A. Patke on Saurabh Jha</title>
-    <link>https://saurabhjha1.github.io/authors/a.-patke/</link>
-    <description>Recent content in A. Patke on Saurabh Jha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://saurabhjha1.github.io/authors/a.-patke/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Measuring Congestion in High-Performance Datacenter Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
->>>>>>> 01eb195a284e8b816cc632eadb1e48c16556127f
