@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Saurabh Jha</title>
-    <link>https://saurabhjha1.github.io/</link>
-    <description>Recent content on Saurabh Jha</description>
+    <title>9 on Saurabh Jha</title>
+    <link>https://saurabhjha1.github.io/publication_types/9/</link>
+    <description>Recent content in 9 on Saurabh Jha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://saurabhjha1.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://saurabhjha1.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Measuring Congestion in High-Performance Datacenter Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>GizmoScope: A System for Performance and Reliability-aware Automated Recovery</title>
@@ -27,33 +18,6 @@
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/2019-gscope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Study of Network Congestion in Two Supercomputing High-Speed Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Live Forensics for Distributed Storage Systems</title>
-      <link>https://saurabhjha1.github.io/publication/2019-kscope/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/2019-kscope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML-based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection </title>
-      <link>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</guid>
       <description></description>
     </item>
     
@@ -85,29 +49,11 @@
     </item>
     
     <item>
-      <title>Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data</title>
-      <link>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kayotee : A Fault Injection-based System to Assess the Safety and Reliability of Autonomous Vehicles to Faults and Errors</title>
       <link>https://saurabhjha1.github.io/publication/kayotee-art-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/kayotee-art-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters</title>
-      <link>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</guid>
       <description></description>
     </item>
     
@@ -121,29 +67,11 @@
     </item>
     
     <item>
-      <title>Improving Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach</title>
-      <link>https://saurabhjha1.github.io/publication/jha-vldb-2015/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/jha-vldb-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
       <link>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BbmTTP: Beat-based Parallel Simulated Annealing Algorithm on GPGPUs for the Mirrored Traveling Tournament Problem</title>
-      <link>https://saurabhjha1.github.io/publication/bbmttp-hpc-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/bbmttp-hpc-2014/</guid>
       <description></description>
     </item>
     
