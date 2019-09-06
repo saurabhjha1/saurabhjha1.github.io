@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 on Saurabh Jha</title>
-    <link>https://saurabhjha1.github.io/publication_types/3/</link>
-    <description>Recent content in 3 on Saurabh Jha</description>
+    <title>Subho S Banerjee on Saurabh Jha</title>
+    <link>https://saurabhjha1.github.io/authors/subho-s-banerjee/</link>
+    <description>Recent content in Subho S Banerjee on Saurabh Jha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
     <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://saurabhjha1.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://saurabhjha1.github.io/authors/subho-s-banerjee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/2019-scheduling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Live Forensics for Distributed Storage Systems</title>
-      <link>https://saurabhjha1.github.io/publication/2019-kscope/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/2019-kscope/</guid>
       <description></description>
     </item>
     
