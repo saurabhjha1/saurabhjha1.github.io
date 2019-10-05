@@ -11,40 +11,5 @@
 	    <atom:link href="https://saurabhjha1.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://saurabhjha1.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;DIV align=&#34;justify&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I am a Ph.D. candidate in &lt;a href=&#34;http://cs.illinois.edu&#34; target=&#34;_blank&#34;&gt; Computer Science at the
-University of Illinois at Urbana-Champaign (UIUC). &lt;/a&gt; advised by &lt;a
-href=&#34;http://www.ece.illinois.edu/directory/profile.asp?rkiyer&#34; target=&#34;_blank&#34;&gt; Ravishankar Iyer &lt;/a&gt; in the &lt;a
-href=&#34;http://depend.csl.illinois.edu/&#34; target=&#34;_blank&#34;&gt;DEPEND research group &lt;/a&gt; at the &lt;a href=&#34;http://csl.illinois.edu/&#34;
-target=&#34;_blank&#34;&gt; Coordinated Science Laboratory&lt;/a&gt;. I am also working part-time for &lt;a href=&#34;https://developer.ibm.com/itom/2019/07/16/itops-to-aiops/&#34; target=&#34;_blank&#34;&gt; IBM AIOps &lt;/a&gt; team in Spring 2019. My research interests include the assessment and design of resilience- and performance-aware computer systems (e.g., datacenters and autonomous systems).&lt;/p&gt;
-
-&lt;p&gt;I have ongoing collaborations with &lt;a href=&#34;http://www.ncsa.illinois.edu&#34; target=&#34;_blank&#34;&gt; National Center for Supercomputing Applications&lt;/a&gt;, &lt;a href=&#34;http://sandia.gov&#34; target=&#34;_blank&#34;&gt; Sandia National Lab&lt;/a&gt;, &lt;a href=&#34;http://nersc.gov&#34; target=&#34;_blank&#34;&gt; National Energy Research Scientific Computing Center&lt;/a&gt;, &lt;a href=&#34;http://lanl.gov&#34; target=&#34;_blank&#34;&gt; Los Almos National Lab&lt;/a&gt;, &lt;a href=&#34;http://cray.com&#34; target=&#34;_blank&#34;&gt; Cray&lt;/a&gt;, &lt;a href=&#34;https://www.bell-labs.com&#34; target=&#34;_blank&#34;&gt;Bell Labs&lt;/a&gt;, &lt;a href=&#34;https://www.microsoft.com/en-us/research/&#34; target=&#34;_blank&#34;&gt; Microsoft Research&lt;/a&gt;, &lt;a href=&#34;https://www.nvidia.com/en-us/&#34; target=&#34;_blank&#34;&gt; Nvidia Corporation&lt;/a&gt;, &lt;a href=&#34;https://research.samsung.com/&#34; target=&#34;_blank&#34;&gt; Samsung Research &lt;/a&gt; and &lt;a href=&#34;https://www.ibm.com/&#34; target=&#34;_blank&#34;&gt; IBM&lt;/a&gt;. In the past, I have collaborated with &lt;a href=&#34;https://www.a-star.edu.sg/ihpc&#34; target=&#34;_blank&#34;&gt;Institute of High-Performance Computing at A* STAR&lt;/a&gt; and NeST.&lt;/p&gt;
-
-&lt;!-- I am currently interning at IBM AIOps. I have previously interned at Microsoft Research (MSR) Redmond in 2015 and 2016, and Nvidia Research Labs in 2018.  --&gt;
-
-&lt;p&gt;&lt;/DIV&gt;&lt;/p&gt;
-
-&lt;div&gt;
-&lt;h3&gt;Professional Service&lt;/h3&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;font color=&#34;#cc4b37&#34;&gt;Journal Reviewer:&lt;/font&gt; &lt;a href=&#34;https://www.computer.org/csdl/journal/tq/2019/03/08713546/1a3kzC8Ai5y&#34;&gt; TDSC 2018&lt;/a&gt;, &lt;a href=&#34;https://www.computer.org/csdl/journal/td/2017/12/08103837/13rRUxDqS8c&#34;  target=&#34;_blank&#34;&gt;TPDS 2017&lt;/a&gt;, &lt;a href=&#34;https://us.sagepub.com/en-us/nam/proceedings-of-the-institution-of-mechanical-engineers-part-o-journal-of-risk-and-reliability&#34;  target=&#34;_blank&#34;&gt; Part O: Journal of Risk and Reliability 2017, 2018 &lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt; &lt;font color=&#34;#cc4b37&#34;&gt; External/Sub Conference Reviewer:&lt;/font&gt; &lt;a href=&#34;https://sc17.supercomputing.org&#34;  target=&#34;_blank&#34;&gt; SC 2017&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/site/hpcmaspa2017/home&#34;  target=&#34;_blank&#34;&gt; HPCMASPA 2017 &lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;font color=&#34;#cc4b37&#34;&gt; Artifact Evaluation Reviewer:&lt;/font&gt; &lt;a href=&#34;https://sysartifacts.github.io/organizers.html&#34; target=&#34;_blank&#34;&gt; SOSP 2019&lt;/a&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
