@@ -1,10 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://saurabhjha1.github.io/publication_types/1/</loc>
-    <lastmod>2019-10-05T13:08:33-05:00</lastmod>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/james-cyriac/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/publication/robotack-dsn-2020/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/tags/neural-autonomous-vehicles-self-driving-vehicles-safety-assessment-attack-smart-malware-artificial-intelligence/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/publication_types/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/r.-k.-iyer/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/s.-jha/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/s.-s.-banerjee/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/shengkun-cui/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/tags/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/timothy-tsai/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/ashraf-mahgoub/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/r.-kalyanam/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/rakesh-kumar/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/ravishankar-k-iyer/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/s.-harrell/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/saurabh-bagchi/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/saurabh-jha/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/publication/char-dsn-2020/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/william-kramer/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/x.-song/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/authors/zbigniew-t-kalbarczyk/</loc>
+    <lastmod>2020-03-07T13:09:52-06:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +129,6 @@
   
   <url>
     <loc>https://saurabhjha1.github.io/authors/a.-patke/</loc>
-    <lastmod>2019-10-05T13:08:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabhjha1.github.io/authors/</loc>
     <lastmod>2019-10-05T13:08:33-05:00</lastmod>
   </url>
   
@@ -53,22 +163,7 @@
   </url>
   
   <url>
-    <loc>https://saurabhjha1.github.io/publication_types/</loc>
-    <lastmod>2019-10-05T13:08:33-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saurabhjha1.github.io/authors/r.-iyer/</loc>
-    <lastmod>2019-10-05T13:08:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabhjha1.github.io/authors/s.-jha/</loc>
-    <lastmod>2019-10-05T13:08:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabhjha1.github.io/</loc>
     <lastmod>2019-10-05T13:08:33-05:00</lastmod>
   </url>
   
@@ -118,17 +213,7 @@
   </url>
   
   <url>
-    <loc>https://saurabhjha1.github.io/authors/saurabh-jha/</loc>
-    <lastmod>2019-09-05T22:03:43-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saurabhjha1.github.io/authors/subho-s-banerjee/</loc>
-    <lastmod>2019-09-05T22:03:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabhjha1.github.io/tags/</loc>
     <lastmod>2019-09-05T22:03:43-05:00</lastmod>
   </url>
   
@@ -159,11 +244,6 @@
   
   <url>
     <loc>https://saurabhjha1.github.io/authors/j.-enos/</loc>
-    <lastmod>2019-09-08T22:46:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabhjha1.github.io/authors/r.-k.-iyer/</loc>
     <lastmod>2019-09-08T22:46:01-05:00</lastmod>
   </url>
   
@@ -208,11 +288,6 @@
   </url>
   
   <url>
-    <loc>https://saurabhjha1.github.io/authors/shengkun-cui/</loc>
-    <lastmod>2019-07-25T13:00:30-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saurabhjha1.github.io/authors/tianyin-xu/</loc>
     <lastmod>2019-07-25T13:00:30-05:00</lastmod>
   </url>
@@ -220,11 +295,6 @@
   <url>
     <loc>https://saurabhjha1.github.io/authors/william-t.-kramer/</loc>
     <lastmod>2019-07-25T13:00:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</loc>
-    <lastmod>2019-09-02T19:04:32-05:00</lastmod>
   </url>
   
   <url>
@@ -258,17 +328,7 @@
   </url>
   
   <url>
-    <loc>https://saurabhjha1.github.io/authors/s.-s.-banerjee/</loc>
-    <lastmod>2019-09-02T19:04:32-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saurabhjha1.github.io/authors/stephen-w.-keckler/</loc>
-    <lastmod>2019-09-02T19:04:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saurabhjha1.github.io/authors/timothy-tsai/</loc>
     <lastmod>2019-09-02T19:04:32-05:00</lastmod>
   </url>
   
@@ -388,11 +448,6 @@
   </url>
   
   <url>
-    <loc>https://saurabhjha1.github.io/authors/william-kramer/</loc>
-    <lastmod>2019-09-02T19:04:32-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saurabhjha1.github.io/authors/zbigniew-kalbarczyk/</loc>
     <lastmod>2019-09-02T19:04:32-05:00</lastmod>
   </url>
@@ -464,7 +519,7 @@
   
   <url>
     <loc>https://saurabhjha1.github.io/authors/admin/</loc>
-    <lastmod>2019-12-23T12:01:09-06:00</lastmod>
+    <lastmod>2020-03-07T13:07:11-06:00</lastmod>
   </url>
   
   <url>
@@ -483,6 +538,11 @@
   
   <url>
     <loc>https://saurabhjha1.github.io/talk/</loc>
+    <lastmod>2019-06-10T09:52:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saurabhjha1.github.io/</loc>
     <lastmod>2019-06-10T09:52:33-05:00</lastmod>
   </url>
   

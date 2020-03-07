@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/william-kramer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems</title>
+      <link>https://saurabhjha1.github.io/publication/char-dsn-2020/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/char-dsn-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
