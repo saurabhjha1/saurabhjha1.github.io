@@ -7,26 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/william-kramer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems</title>
-      <link>https://saurabhjha1.github.io/publication/char-dsn-2020/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Measuring Congestion in High-Performance Datacenter Interconnects </title>
+      <link>https://saurabhjha1.github.io/publication/jhamonet/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/char-dsn-2020/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jhamonet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study of Network Congestion in Two Supercomputing High-Speed Interconnects</title>
+      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
-      <link>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</link>
+      <link>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</guid>
+      <guid>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</guid>
       <description></description>
     </item>
     

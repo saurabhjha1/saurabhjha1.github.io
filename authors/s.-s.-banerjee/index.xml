@@ -7,53 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/s.-s.-banerjee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ML-driven Malware for Targeting AV Safety</title>
-      <link>https://saurabhjha1.github.io/publication/robotack-dsn-2020/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/robotack-dsn-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML-based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection </title>
-      <link>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks</title>
-      <link>https://saurabhjha1.github.io/publication/bdfi-dsn-2019/</link>
+      <link>https://saurabhjha1.github.io/publication/bdlfi/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/bdfi-dsn-2019/</guid>
+      <guid>https://saurabhjha1.github.io/publication/bdlfi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AVFI: Fault Injection for Autonomous Vehicles</title>
-      <link>https://saurabhjha1.github.io/publication/avfi-dsn-2018/</link>
+      <link>https://saurabhjha1.github.io/publication/jha-2018-avfi/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/avfi-dsn-2018/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2018-avfi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data</title>
-      <link>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</link>
+      <link>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</guid>
+      <guid>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</guid>
       <description></description>
     </item>
     

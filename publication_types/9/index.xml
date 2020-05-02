@@ -7,89 +7,98 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GizmoScope: A System for Performance and Reliability-aware Automated Recovery</title>
-      <link>https://saurabhjha1.github.io/publication/2019-gscope/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Modeling Communication Latency in High-speed Interconnection Networks</title>
+      <link>https://saurabhjha1.github.io/publication/patke-models/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/2019-gscope/</guid>
+      <guid>https://saurabhjha1.github.io/publication/patke-models/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Holistic Measurement-Driven System Assessment</title>
-      <link>https://saurabhjha1.github.io/publication/hmdsa-sc-2019/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Holistic Measurement driven System Assessment</title>
+      <link>https://saurabhjha1.github.io/publication/testsc/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/hmdsa-sc-2019/</guid>
+      <guid>https://saurabhjha1.github.io/publication/testsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GizmoScope: A System for Performance and Reliability-aware Automated Recovery</title>
+      <link>https://saurabhjha1.github.io/publication/2019-gscope-j/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/2019-gscope-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks</title>
-      <link>https://saurabhjha1.github.io/publication/bdfi-dsn-2019/</link>
+      <link>https://saurabhjha1.github.io/publication/bdlfi/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/bdfi-dsn-2019/</guid>
+      <guid>https://saurabhjha1.github.io/publication/bdlfi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing Supercomputer Traffic Networks Through Link-Level Analysis</title>
-      <link>https://saurabhjha1.github.io/publication/jha-cluster-2018/</link>
+      <link>https://saurabhjha1.github.io/publication/traffic-char/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/jha-cluster-2018/</guid>
+      <guid>https://saurabhjha1.github.io/publication/traffic-char/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AVFI: Fault Injection for Autonomous Vehicles</title>
-      <link>https://saurabhjha1.github.io/publication/avfi-dsn-2018/</link>
+      <link>https://saurabhjha1.github.io/publication/jha-2018-avfi/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/avfi-dsn-2018/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2018-avfi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kayotee : A Fault Injection-based System to Assess the Safety and Reliability of Autonomous Vehicles to Faults and Errors</title>
-      <link>https://saurabhjha1.github.io/publication/kayotee-art-2018/</link>
+      <title>Fault Injection-based System to Assess  the Safety and Reliability of Autonomous Vehicles to  Faults and Errors</title>
+      <link>https://saurabhjha1.github.io/publication/jhakayotee-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/kayotee-art-2018/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jhakayotee-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Holistic Measurement-Driven System Assessment</title>
-      <link>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/jha-2017-holistic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2017-holistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
-      <link>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</link>
+      <link>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/martino-logdiver-2015/</guid>
+      <guid>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploiting Data Parallelism in the yConvex Hypergraph Algorithm for Image Representation Using GPGPUs</title>
-      <link>https://saurabhjha1.github.io/publication/jha-ics-2013/</link>
+      <title>Exploiting Data Parallelism in the YConvex Hypergraph Algorithm for Image Representation Using GPGPUs</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2013-exploiting/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/jha-ics-2013/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2013-exploiting/</guid>
       <description></description>
     </item>
     

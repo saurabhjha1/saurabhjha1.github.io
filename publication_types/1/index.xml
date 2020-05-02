@@ -7,35 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ML-driven Malware for Targeting AV Safety</title>
-      <link>https://saurabhjha1.github.io/publication/robotack-dsn-2020/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <title>ML-driven Malware that Targets AV Safety</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2020-ml/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/robotack-dsn-2020/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2020-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Congestion in High-Performance Datacenter Interconnects </title>
+      <link>https://saurabhjha1.github.io/publication/jhamonet/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jhamonet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems</title>
-      <link>https://saurabhjha1.github.io/publication/char-dsn-2020/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/rakes-2020-char/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/char-dsn-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Congestion in High-Performance Datacenter Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</guid>
+      <guid>https://saurabhjha1.github.io/publication/rakes-2020-char/</guid>
       <description></description>
     </item>
     
@@ -49,38 +49,38 @@
     </item>
     
     <item>
-      <title>ML-based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection </title>
-      <link>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</link>
+      <title>ML-Based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2019-ml/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/bfi-dsn-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data</title>
-      <link>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/av-char-dsn-2018/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2019-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters</title>
-      <link>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/jha-2017-resiliency/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2017-resiliency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data</title>
+      <link>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach</title>
-      <link>https://saurabhjha1.github.io/publication/jha-vldb-2015/</link>
+      <link>https://saurabhjha1.github.io/publication/jha-2015-improving/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/jha-vldb-2015/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2015-improving/</guid>
       <description></description>
     </item>
     

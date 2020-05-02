@@ -7,53 +7,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/j.-brandt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Measuring Congestion in High-Performance Datacenter Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Holistic Measurement-Driven System Assessment</title>
-      <link>https://saurabhjha1.github.io/publication/hmdsa-sc-2019/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/hmdsa-sc-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Study of Network Congestion in Two Supercomputing High-Speed Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Characterizing Supercomputer Traffic Networks Through Link-Level Analysis</title>
-      <link>https://saurabhjha1.github.io/publication/jha-cluster-2018/</link>
+      <link>https://saurabhjha1.github.io/publication/traffic-char/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/jha-cluster-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Holistic Measurement-Driven System Assessment</title>
-      <link>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/hmdsa-cluster-2017/</guid>
+      <guid>https://saurabhjha1.github.io/publication/traffic-char/</guid>
       <description></description>
     </item>
     

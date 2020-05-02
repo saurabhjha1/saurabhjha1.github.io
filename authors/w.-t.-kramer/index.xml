@@ -7,35 +7,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/w.-t.-kramer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Measuring Congestion in High-Performance Datacenter Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/monet-nsdi-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Study of Network Congestion in Two Supercomputing High-Speed Interconnects</title>
-      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters</title>
-      <link>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/jha-2017-resiliency/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/jha-tdsc-2017/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jha-2017-resiliency/</guid>
       <description></description>
     </item>
     

@@ -7,44 +7,143 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/saurabh-jha/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems</title>
-      <link>https://saurabhjha1.github.io/publication/char-dsn-2020/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Measuring Congestion in High-Performance Datacenter Interconnects </title>
+      <link>https://saurabhjha1.github.io/publication/jhamonet/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/char-dsn-2020/</guid>
+      <guid>https://saurabhjha1.github.io/publication/jhamonet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Inductive Bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters</title>
-      <link>https://saurabhjha1.github.io/publication/2019-scheduling/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Modeling Communication Latency in High-speed Interconnection Networks</title>
+      <link>https://saurabhjha1.github.io/publication/patke-models/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/2019-scheduling/</guid>
+      <guid>https://saurabhjha1.github.io/publication/patke-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems</title>
+      <link>https://saurabhjha1.github.io/publication/rakes-2020-char/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/rakes-2020-char/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Measurement driven System Assessment</title>
+      <link>https://saurabhjha1.github.io/publication/testsc/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/testsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GizmoScope: A System for Performance and Reliability-aware Automated Recovery</title>
-      <link>https://saurabhjha1.github.io/publication/2019-gscope/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <link>https://saurabhjha1.github.io/publication/2019-gscope-j/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/2019-gscope/</guid>
+      <guid>https://saurabhjha1.github.io/publication/2019-gscope-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study of Network Congestion in Two Supercomputing High-Speed Interconnects</title>
+      <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-hoti-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Live Forensics for Distributed Storage Systems</title>
-      <link>https://saurabhjha1.github.io/publication/2019-kscope/</link>
+      <link>https://saurabhjha1.github.io/publication/klscope/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/publication/2019-kscope/</guid>
+      <guid>https://saurabhjha1.github.io/publication/klscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inductive Bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters</title>
+      <link>https://saurabhjha1.github.io/publication/symphony/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/symphony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Fault Scenarios and Impacts through Fault Injection Experiments in Cielo</title>
+      <link>https://saurabhjha1.github.io/publication/dblp-journalscorrabs-1907-01019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/dblp-journalscorrabs-1907-01019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Injection-based System to Assess  the Safety and Reliability of Autonomous Vehicles to  Faults and Errors</title>
+      <link>https://saurabhjha1.github.io/publication/jhakayotee-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jhakayotee-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Measurement-Driven System Assessment</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2017-holistic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2017-holistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Gemini Interconnect Recovery Mechanisms: Methods and Observations</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2016-analysis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2016-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2015-improving/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2015-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
+      <link>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Data Parallelism in the YConvex Hypergraph Algorithm for Image Representation Using GPGPUs</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2013-exploiting/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2013-exploiting/</guid>
       <description></description>
     </item>
     

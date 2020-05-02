@@ -7,24 +7,15 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>neural; autonomous vehicles; self driving vehicles; safety assessment; attack; smart malware; artificial intelligence</title>
-      <link>https://saurabhjha1.github.io/tags/neural-autonomous-vehicles-self-driving-vehicles-safety-assessment-attack-smart-malware-artificial-intelligence/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/neural-autonomous-vehicles-self-driving-vehicles-safety-assessment-attack-smart-malware-artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>and Cluster Computing</title>
       <link>https://saurabhjha1.github.io/tags/and-cluster-computing/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/tags/and-cluster-computing/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>Computer Science - Distributed</title>
       <link>https://saurabhjha1.github.io/tags/computer-science-distributed/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/tags/computer-science-distributed/</guid>
       <description></description>
@@ -42,7 +33,7 @@
     <item>
       <title>Computer Science - Machine Learning</title>
       <link>https://saurabhjha1.github.io/tags/computer-science-machine-learning/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/tags/computer-science-machine-learning/</guid>
       <description></description>
@@ -51,7 +42,7 @@
     <item>
       <title>Parallel</title>
       <link>https://saurabhjha1.github.io/tags/parallel/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/tags/parallel/</guid>
       <description></description>
@@ -63,24 +54,6 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/tags/high-performance-computing-congestion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural; autonomous vehicles; self driving vehicles; safety assessment; fault injection; artificial intelligence</title>
-      <link>https://saurabhjha1.github.io/tags/neural-autonomous-vehicles-self-driving-vehicles-safety-assessment-fault-injection-artificial-intelligence/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/neural-autonomous-vehicles-self-driving-vehicles-safety-assessment-fault-injection-artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural; fault injection; artificial intelligence</title>
-      <link>https://saurabhjha1.github.io/tags/neural-fault-injection-artificial-intelligence/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/neural-fault-injection-artificial-intelligence/</guid>
       <description></description>
     </item>
     
@@ -103,7 +76,7 @@
     </item>
     
     <item>
-      <title>cuda</title>
+      <title>CUDA</title>
       <link>https://saurabhjha1.github.io/tags/cuda/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
@@ -139,7 +112,7 @@
     </item>
     
     <item>
-      <title>gpgpu</title>
+      <title>GPGPU</title>
       <link>https://saurabhjha1.github.io/tags/gpgpu/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
