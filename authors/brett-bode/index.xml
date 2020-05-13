@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brett Bode on Saurabh Jha</title>
+    <link>https://saurabhjha1.github.io/authors/brett-bode/</link>
+    <description>Recent content in Brett Bode on Saurabh Jha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://saurabhjha1.github.io/authors/brett-bode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Holistic Measurement driven System Assessment</title>
+      <link>https://saurabhjha1.github.io/publication/testsc/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/testsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic Measurement-Driven System Assessment</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2017-holistic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2017-holistic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

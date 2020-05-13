@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Banerjee on Saurabh Jha</title>
+    <link>https://saurabhjha1.github.io/authors/s.-banerjee/</link>
+    <description>Recent content in S. Banerjee on Saurabh Jha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://saurabhjha1.github.io/authors/s.-banerjee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ML-driven Malware that Targets AV Safety</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2020-ml/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2020-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML-Based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2019-ml/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2019-ml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
