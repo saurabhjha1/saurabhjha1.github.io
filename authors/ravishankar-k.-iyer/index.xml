@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding, Detecting, and Localizing Failures in High-Performance Storage Systems</title>
+      <link>https://saurabhjha1.github.io/publication/klscope/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/klscope/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inductive Bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters</title>
@@ -27,15 +36,6 @@
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/2019-gscope-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Live Forensics for Distributed Storage Systems</title>
-      <link>https://saurabhjha1.github.io/publication/klscope/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/klscope/</guid>
       <description></description>
     </item>
     

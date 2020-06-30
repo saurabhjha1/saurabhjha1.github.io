@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/jeremy-enos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding, Detecting, and Localizing Failures in High-Performance Storage Systems</title>
+      <link>https://saurabhjha1.github.io/publication/klscope/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/klscope/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Holistic Measurement driven System Assessment</title>
@@ -18,15 +27,6 @@
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/testsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Live Forensics for Distributed Storage Systems</title>
-      <link>https://saurabhjha1.github.io/publication/klscope/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/klscope/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/j.-cyriac/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ML-driven Malware that Targets AV Safety</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2020-ml/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2020-ml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks</title>

@@ -7,15 +7,33 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Jeremy Enos</title>
+      <link>https://saurabhjha1.github.io/authors/jeremy-enos/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/jeremy-enos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Showerman</title>
+      <link>https://saurabhjha1.github.io/authors/mike-showerman/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/mike-showerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ravishankar K. Iyer</title>
       <link>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</guid>
       <description></description>
@@ -24,9 +42,45 @@
     <item>
       <title>Saurabh Jha</title>
       <link>https://saurabhjha1.github.io/authors/saurabh-jha/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/authors/saurabh-jha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shengkun Cui</title>
+      <link>https://saurabhjha1.github.io/authors/shengkun-cui/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/shengkun-cui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subho Banerjee</title>
+      <link>https://saurabhjha1.github.io/authors/subho-banerjee/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/subho-banerjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianyin Xu</title>
+      <link>https://saurabhjha1.github.io/authors/tianyin-xu/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/tianyin-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zbigniew T. Kalbarczyk</title>
+      <link>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</guid>
       <description></description>
     </item>
     
@@ -49,11 +103,11 @@
     </item>
     
     <item>
-      <title>M. B. Sullivan</title>
-      <link>https://saurabhjha1.github.io/authors/m.-b.-sullivan/</link>
+      <title>J. Cyriac</title>
+      <link>https://saurabhjha1.github.io/authors/j.-cyriac/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/authors/m.-b.-sullivan/</guid>
+      <guid>https://saurabhjha1.github.io/authors/j.-cyriac/</guid>
       <description></description>
     </item>
     
@@ -67,11 +121,11 @@
     </item>
     
     <item>
-      <title>S. Banerjee</title>
-      <link>https://saurabhjha1.github.io/authors/s.-banerjee/</link>
+      <title>S. Cui</title>
+      <link>https://saurabhjha1.github.io/authors/s.-cui/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/authors/s.-banerjee/</guid>
+      <guid>https://saurabhjha1.github.io/authors/s.-cui/</guid>
       <description></description>
     </item>
     
@@ -85,20 +139,11 @@
     </item>
     
     <item>
-      <title>S. K. S. Hari</title>
-      <link>https://saurabhjha1.github.io/authors/s.-k.-s.-hari/</link>
+      <title>S.S. Banerjee</title>
+      <link>https://saurabhjha1.github.io/authors/s.s.-banerjee/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/authors/s.-k.-s.-hari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. W. Keckler</title>
-      <link>https://saurabhjha1.github.io/authors/s.-w.-keckler/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/s.-w.-keckler/</guid>
+      <guid>https://saurabhjha1.github.io/authors/s.s.-banerjee/</guid>
       <description></description>
     </item>
     
@@ -171,15 +216,6 @@
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/authors/larry-kaplan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mike Showerman</title>
-      <link>https://saurabhjha1.github.io/authors/mike-showerman/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/mike-showerman/</guid>
       <description></description>
     </item>
     
@@ -301,15 +337,6 @@
     </item>
     
     <item>
-      <title>Jeremy Enos</title>
-      <link>https://saurabhjha1.github.io/authors/jeremy-enos/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/jeremy-enos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eric Roman</title>
       <link>https://saurabhjha1.github.io/authors/eric-roman/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -319,56 +346,29 @@
     </item>
     
     <item>
-      <title>Mark Dalton</title>
-      <link>https://saurabhjha1.github.io/authors/mark-dalton/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/mark-dalton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shengkun Cui</title>
-      <link>https://saurabhjha1.github.io/authors/shengkun-cui/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/shengkun-cui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tianyin Xu</title>
-      <link>https://saurabhjha1.github.io/authors/tianyin-xu/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/tianyin-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>William T. Kramer</title>
-      <link>https://saurabhjha1.github.io/authors/william-t.-kramer/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/william-t.-kramer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zbigniew T. Kalbarczyk</title>
-      <link>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Cyriac</title>
-      <link>https://saurabhjha1.github.io/authors/j.-cyriac/</link>
+      <title>M. B. Sullivan</title>
+      <link>https://saurabhjha1.github.io/authors/m.-b.-sullivan/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saurabhjha1.github.io/authors/j.-cyriac/</guid>
+      <guid>https://saurabhjha1.github.io/authors/m.-b.-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Banerjee</title>
+      <link>https://saurabhjha1.github.io/authors/s.-banerjee/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/s.-banerjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. K. S. Hari</title>
+      <link>https://saurabhjha1.github.io/authors/s.-k.-s.-hari/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/s.-k.-s.-hari/</guid>
       <description></description>
     </item>
     
@@ -378,6 +378,15 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/authors/s.-s.-banerjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. W. Keckler</title>
+      <link>https://saurabhjha1.github.io/authors/s.-w.-keckler/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/s.-w.-keckler/</guid>
       <description></description>
     </item>
     
