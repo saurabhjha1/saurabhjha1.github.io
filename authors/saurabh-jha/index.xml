@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/saurabh-jha/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AV-FUZZER: Finding safety violations in autonomous driving systems</title>
+      <link>https://saurabhjha1.github.io/publication/av-fuzzer/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/av-fuzzer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding, Detecting, and Localizing Failures in High-Performance Storage Systems</title>

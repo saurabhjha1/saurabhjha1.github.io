@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. K. S. Hari on Saurabh Jha</title>
-    <link>https://saurabhjha1.github.io/authors/s.-k.-s.-hari/</link>
-    <description>Recent content in S. K. S. Hari on Saurabh Jha</description>
+    <title>Guanpeng Li on Saurabh Jha</title>
+    <link>https://saurabhjha1.github.io/authors/guanpeng-li/</link>
+    <description>Recent content in Guanpeng Li on Saurabh Jha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://saurabhjha1.github.io/authors/s.-k.-s.-hari/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://saurabhjha1.github.io/authors/guanpeng-li/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/av-fuzzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML-Based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection</title>
-      <link>https://saurabhjha1.github.io/publication/jha-2019-ml/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/jha-2019-ml/</guid>
       <description></description>
     </item>
     
