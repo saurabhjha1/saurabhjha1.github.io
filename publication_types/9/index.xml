@@ -31,33 +31,6 @@
     </item>
     
     <item>
-      <title>GizmoScope: A System for Performance and Reliability-aware Automated Recovery</title>
-      <link>https://saurabhjha1.github.io/publication/2019-gscope-j/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/2019-gscope-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks</title>
-      <link>https://saurabhjha1.github.io/publication/bdlfi/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/bdlfi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterizing Supercomputer Traffic Networks Through Link-Level Analysis</title>
-      <link>https://saurabhjha1.github.io/publication/traffic-char/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/traffic-char/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AVFI: Fault Injection for Autonomous Vehicles</title>
       <link>https://saurabhjha1.github.io/publication/jha-2018-avfi/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -81,15 +54,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/jha-2017-holistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
-      <link>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</guid>
       <description></description>
     </item>
     

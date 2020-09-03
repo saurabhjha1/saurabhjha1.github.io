@@ -93,15 +93,6 @@
     </item>
     
     <item>
-      <title>GizmoScope: A System for Performance and Reliability-aware Automated Recovery</title>
-      <link>https://saurabhjha1.github.io/publication/2019-gscope-j/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/2019-gscope-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Study of Network Congestion in Two Supercomputing High-Speed Interconnects</title>
       <link>https://saurabhjha1.github.io/publication/jha-hoti-2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -116,15 +107,6 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/jha-2019-ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks</title>
-      <link>https://saurabhjha1.github.io/publication/bdlfi/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/bdlfi/</guid>
       <description></description>
     </item>
     
@@ -152,15 +134,6 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/jha-2017-resiliency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterizing Supercomputer Traffic Networks Through Link-Level Analysis</title>
-      <link>https://saurabhjha1.github.io/publication/traffic-char/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/traffic-char/</guid>
       <description></description>
     </item>
     
@@ -215,15 +188,6 @@
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/jha-2015-improving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications</title>
-      <link>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/martino-2015-logdiver/</guid>
       <description></description>
     </item>
     

@@ -7,19 +7,10 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/s.-s.-banerjee/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks</title>
-      <link>https://saurabhjha1.github.io/publication/bdlfi/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/publication/bdlfi/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>AVFI: Fault Injection for Autonomous Vehicles</title>
