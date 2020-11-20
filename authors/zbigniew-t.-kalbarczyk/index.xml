@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BayesPerf: Minimizing Performance Monitoring Errors Using Bayesian Statistics</title>
+      <link>https://saurabhjha1.github.io/publication/asplos21/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/asplos21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-oriented Microservices</title>
