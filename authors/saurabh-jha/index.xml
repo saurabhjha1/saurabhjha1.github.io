@@ -67,6 +67,15 @@
     </item>
     
     <item>
+      <title>ML-driven Malware that Targets AV Safety</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2020-ml/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2020-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Measuring Congestion in High-Performance Datacenter Interconnects </title>
       <link>https://saurabhjha1.github.io/publication/jhamonet/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -112,11 +121,47 @@
     </item>
     
     <item>
+      <title>ML-Based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2019-ml/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2019-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Understanding Fault Scenarios and Impacts through Fault Injection Experiments in Cielo</title>
       <link>https://saurabhjha1.github.io/publication/dblp-journalscorrabs-1907-01019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/dblp-journalscorrabs-1907-01019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2017-resiliency/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2017-resiliency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AVFI: Fault Injection for Autonomous Vehicles</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2018-avfi/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2018-avfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data</title>
+      <link>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</guid>
       <description></description>
     </item>
     
@@ -157,11 +202,38 @@
     </item>
     
     <item>
+      <title>BbmTTP: Beat-based Parallel Simulated Annealing Algorithm on GPGPUs for the Mirrored Traveling Tournament Problem</title>
+      <link>https://saurabhjha1.github.io/publication/bbmttp-hpc-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/bbmttp-hpc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploiting Data Parallelism in the YConvex Hypergraph Algorithm for Image Representation Using GPGPUs</title>
       <link>https://saurabhjha1.github.io/publication/jha-2013-exploiting/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/publication/jha-2013-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-HGRMS: A Parallel Hypergraph Based Root Mean Square Algorithm for Image Denoising</title>
+      <link>https://saurabhjha1.github.io/publication/phgrms-hpdc-2013-/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/phgrms-hpdc-2013-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resiliency for Extreme Scale Systems</title>
+      <link>https://saurabhjha1.github.io/publication/cslsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/cslsc/</guid>
       <description></description>
     </item>
     

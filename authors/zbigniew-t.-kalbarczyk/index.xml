@@ -57,5 +57,41 @@
       <description></description>
     </item>
     
+    <item>
+      <title>ML-driven Malware that Targets AV Safety</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2020-ml/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2020-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML-Based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2019-ml/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2019-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AVFI: Fault Injection for Autonomous Vehicles</title>
+      <link>https://saurabhjha1.github.io/publication/jha-2018-avfi/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/jha-2018-avfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data</title>
+      <link>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/banerjee-2018-hands/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
