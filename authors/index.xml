@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bentolhoda Jafary</title>
+      <link>https://saurabhjha1.github.io/authors/bentolhoda-jafary/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/bentolhoda-jafary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lance Fiondella</title>
+      <link>https://saurabhjha1.github.io/authors/lance-fiondella/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/lance-fiondella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ravishankar K. Iyer</title>
+      <link>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saurabh Jha</title>
+      <link>https://saurabhjha1.github.io/authors/saurabh-jha/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/saurabh-jha/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ann Gentile</title>
@@ -54,24 +90,6 @@
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/authors/joe-greenseid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ravishankar K. Iyer</title>
-      <link>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saurabh Jha</title>
-      <link>https://saurabhjha1.github.io/authors/saurabh-jha/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/saurabh-jha/</guid>
       <description></description>
     </item>
     
@@ -723,7 +741,6 @@ My research focuses on design of techniques for automatic identification of safe
 &lt;ul&gt;
 &lt;!--&lt;li&gt; Jonathan Petit, a Principal Engineer at Qualcomm Technologies, presented ideas from &lt;a href=&#34;pubs/DSN2019.pdf&#34; target=&#34;_blank&#34;&gt;Bayesian Fault Injector&lt;/a&gt; in his keynote address at &lt;a href=&#34;https://www.escar.info/escar-europe/program.html&#34; target=&#34;_blank&#34;&gt; ESCAR 2019&lt;/a&gt;
 &lt;/li&gt; --&gt;
-&lt;li&gt; Selected for ETS McCluskey Doctoral Thesis Award. Finals on May 15. &lt;/li&gt;
 &lt;li&gt; Won &lt;a href=&#34;http://2020.issre.net/research-accepted-papers&#34; target=&#34;_blank&#34;&gt; best paper award &lt;/a&gt; for our &lt;a target=&#34;_blank&#34; href=&#34;pubs/av_fuzzer_issre_2020.pdf&#34;&gt; ISSRE 2020 paper&lt;/a&gt; assessing self-driving cars. &lt;/li&gt;
 &lt;li&gt; &lt;a target=&#34;_blank&#34; href=&#34;pubs/forensics_sc_2020.pdf&#34;&gt;  SC 2020 paper &lt;/a&gt; nominated for both the best paper and the best student paper. &lt;/li&gt;
 &lt;li&gt; Co-created &lt;a href=&#34;https://courses.grainger.illinois.edu/ece598rki/fa2020/&#34; target=&#34;_blank&#34;&gt; &#34;Dependable AI&#34;&lt;/a&gt; course with my advisor. Suggestions are welcome. &lt;/li&gt;

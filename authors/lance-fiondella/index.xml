@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lance Fiondella on Saurabh Jha</title>
+    <link>https://saurabhjha1.github.io/authors/lance-fiondella/</link>
+    <description>Recent content in Lance Fiondella on Saurabh Jha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://saurabhjha1.github.io/authors/lance-fiondella/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data-driven Application-oriented Reliability Model of a High-Performance Computing System</title>
+      <link>https://saurabhjha1.github.io/publication/hoda-2021-app-resiliency/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/hoda-2021-app-resiliency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
