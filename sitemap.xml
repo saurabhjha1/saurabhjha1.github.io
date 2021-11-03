@@ -2,11 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://saurabhjha1.github.io/publication_types/1/</loc>
-    <lastmod>2021-06-21T13:11:50-05:00</lastmod>
+    <loc>https://saurabhjha1.github.io/publication_types/9/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/authors/</loc>
-    <lastmod>2021-06-29T19:29:42-05:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/publication_types/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/authors/saurabh-jha/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/publication/ml4ad21/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/authors/yan-miao/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/authors/haoran-qui/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/publication/wosc21/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/authors/subho-banerjee/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saurabhjha1.github.io/publication_types/1/</loc>
+    <lastmod>2021-06-21T13:11:50-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/authors/bentolhoda-jafary/</loc>
     <lastmod>2021-06-21T13:11:50-05:00</lastmod>
@@ -17,18 +50,6 @@
     <loc>https://saurabhjha1.github.io/authors/lance-fiondella/</loc>
     <lastmod>2021-06-21T13:11:50-05:00</lastmod>
   </url><url>
-    <loc>https://saurabhjha1.github.io/publication_types/</loc>
-    <lastmod>2021-06-21T13:11:50-05:00</lastmod>
-  </url><url>
-    <loc>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</loc>
-    <lastmod>2021-06-21T13:11:50-05:00</lastmod>
-  </url><url>
-    <loc>https://saurabhjha1.github.io/authors/saurabh-jha/</loc>
-    <lastmod>2021-06-21T13:11:50-05:00</lastmod>
-  </url><url>
-    <loc>https://saurabhjha1.github.io/</loc>
-    <lastmod>2021-06-29T19:29:42-05:00</lastmod>
-  </url><url>
     <loc>https://saurabhjha1.github.io/authors/ann-gentile/</loc>
     <lastmod>2021-05-22T16:18:02-05:00</lastmod>
   </url><url>
@@ -38,16 +59,10 @@
     <loc>https://saurabhjha1.github.io/publication/ics21/</loc>
     <lastmod>2021-05-22T16:18:02-05:00</lastmod>
   </url><url>
-    <loc>https://saurabhjha1.github.io/authors/haoran-qui/</loc>
-    <lastmod>2021-05-22T16:18:02-05:00</lastmod>
-  </url><url>
     <loc>https://saurabhjha1.github.io/authors/jim-brandt/</loc>
     <lastmod>2021-05-22T16:18:02-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/authors/joe-greenseid/</loc>
-    <lastmod>2021-05-22T16:18:02-05:00</lastmod>
-  </url><url>
-    <loc>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</loc>
     <lastmod>2021-05-22T16:18:02-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/publication/asplos21/</loc>
@@ -58,9 +73,6 @@
   </url><url>
     <loc>https://saurabhjha1.github.io/publication/firm/</loc>
     <lastmod>2020-11-19T22:48:21-06:00</lastmod>
-  </url><url>
-    <loc>https://saurabhjha1.github.io/authors/subho-banerjee/</loc>
-    <lastmod>2021-04-03T00:48:38-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/publication/av-fuzzer/</loc>
     <lastmod>2021-04-03T00:48:38-05:00</lastmod>
@@ -108,9 +120,6 @@
     <lastmod>2021-04-03T00:48:38-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/authors/timothy-tsai/</loc>
-    <lastmod>2021-04-03T00:48:38-05:00</lastmod>
-  </url><url>
-    <loc>https://saurabhjha1.github.io/publication_types/9/</loc>
     <lastmod>2021-04-03T00:48:38-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/authors/benjamin-lim/</loc>
@@ -372,7 +381,7 @@
     <lastmod>2021-04-03T00:48:38-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/authors/admin/</loc>
-    <lastmod>2021-06-29T19:29:42-05:00</lastmod>
+    <lastmod>2021-10-21T00:11:20-05:00</lastmod>
   </url><url>
     <loc>https://saurabhjha1.github.io/categories/</loc>
   </url><url>

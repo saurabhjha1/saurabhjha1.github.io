@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Watch out for the risky actors: Assessing risk in dynamic environments for safe driving</title>
+      <link>https://saurabhjha1.github.io/publication/ml4ad21/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/ml4ad21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Function-as-a-Service a Good Fit for Latency-Critical Services?</title>
+      <link>https://saurabhjha1.github.io/publication/wosc21/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/publication/wosc21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Delay Sensitivity-driven Congestion Mitigation for HPC Systems</title>

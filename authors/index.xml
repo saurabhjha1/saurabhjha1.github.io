@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://saurabhjha1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ravishankar K. Iyer</title>
+      <link>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saurabh Jha</title>
+      <link>https://saurabhjha1.github.io/authors/saurabh-jha/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/saurabh-jha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yan Miao</title>
+      <link>https://saurabhjha1.github.io/authors/yan-miao/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/yan-miao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zbigniew T. Kalbarczyk</title>
+      <link>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haoran Qui</title>
+      <link>https://saurabhjha1.github.io/authors/haoran-qui/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/haoran-qui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subho Banerjee</title>
+      <link>https://saurabhjha1.github.io/authors/subho-banerjee/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saurabhjha1.github.io/authors/subho-banerjee/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bentolhoda Jafary</title>
@@ -27,24 +81,6 @@
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/authors/lance-fiondella/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ravishankar K. Iyer</title>
-      <link>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</link>
-      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/ravishankar-k.-iyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saurabh Jha</title>
-      <link>https://saurabhjha1.github.io/authors/saurabh-jha/</link>
-      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/saurabh-jha/</guid>
       <description></description>
     </item>
     
@@ -67,15 +103,6 @@
     </item>
     
     <item>
-      <title>Haoran Qui</title>
-      <link>https://saurabhjha1.github.io/authors/haoran-qui/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/haoran-qui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jim Brandt</title>
       <link>https://saurabhjha1.github.io/authors/jim-brandt/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
@@ -94,29 +121,11 @@
     </item>
     
     <item>
-      <title>Zbigniew T. Kalbarczyk</title>
-      <link>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/zbigniew-t.-kalbarczyk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Subho S. Banerjee</title>
       <link>https://saurabhjha1.github.io/authors/subho-s.-banerjee/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saurabhjha1.github.io/authors/subho-s.-banerjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subho Banerjee</title>
-      <link>https://saurabhjha1.github.io/authors/subho-banerjee/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/authors/subho-banerjee/</guid>
       <description></description>
     </item>
     
@@ -730,18 +739,14 @@
       
       <guid>https://saurabhjha1.github.io/authors/admin/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
-I am a PhD student in the &lt;a href=&#34;http://cs.illinois.edu&#34; target=&#34;_blank&#34;&gt;Computer Science Department&lt;/a&gt; at UIUC, where I work with &lt;a
-href=&#34;http://www.ece.illinois.edu/directory/profile.asp?rkiyer&#34; target=&#34;_blank&#34;&gt; Prof. Ravishankar Iyer &lt;/a&gt; in the &lt;a
-href=&#34;http://depend.csl.illinois.edu/&#34; target=&#34;_blank&#34;&gt; DEPEND &lt;/a&gt; group.
-My research focuses on designing ML-driven systems as well as assessing the dependability of ML-driven systems.  
-&lt;br/&gt;
-&lt;font color=&#34;#cc4b37&#34;&gt; I will be joining IBM Research at Yorktown Heights in November as a research staff member.&lt;/font&gt;
+Saurabh Jha is a research staff member at IBM Research at Yorktown Heights. His current work focuses on designing dependable AI systems in the context of the hybrid cloud and feedback-driven control systems.
 &lt;/DIV&gt;
 &lt;div&gt;
 &lt;h3&gt;News&lt;/h3&gt;
 &lt;ul&gt;
 &lt;!--&lt;li&gt; Jonathan Petit, a Principal Engineer at Qualcomm Technologies, presented ideas from &lt;a href=&#34;pubs/DSN2019.pdf&#34; target=&#34;_blank&#34;&gt;Bayesian Fault Injector&lt;/a&gt; in his keynote address at &lt;a href=&#34;https://www.escar.info/escar-europe/program.html&#34; target=&#34;_blank&#34;&gt; ESCAR 2019&lt;/a&gt;
 &lt;/li&gt; --&gt;
+&lt;li&gt; Joined &lt;a href=&#34;https://research.ibm.com&#34; target=&#34;_blank&#34;&gt; IBM Research&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt; Won &lt;a href=&#34;http://2020.issre.net/research-accepted-papers&#34; target=&#34;_blank&#34;&gt; best paper award &lt;/a&gt; for our &lt;a target=&#34;_blank&#34; href=&#34;pubs/av_fuzzer_issre_2020.pdf&#34;&gt; ISSRE 2020 paper&lt;/a&gt; assessing self-driving cars. &lt;/li&gt;
 &lt;li&gt; &lt;a target=&#34;_blank&#34; href=&#34;pubs/forensics_sc_2020.pdf&#34;&gt;  SC 2020 paper &lt;/a&gt; nominated for both the best paper and the best student paper. &lt;/li&gt;
 &lt;li&gt; Co-created &lt;a href=&#34;https://courses.grainger.illinois.edu/ece598rki/fa2020/&#34; target=&#34;_blank&#34;&gt; &#34;Dependable AI&#34;&lt;/a&gt; course with my advisor. Suggestions are welcome. &lt;/li&gt;
@@ -758,7 +763,7 @@ My research focuses on designing ML-driven systems as well as assessing the depe
     &lt;li&gt;&lt;font color=&#34;#cc4b37&#34;&gt;Journal Reviewer:&lt;/font&gt; &lt;a href=&#34;https://dl.acm.org/journal/tocs&#34;&gt; TOC (2020)&lt;/a&gt;, &lt;a href=&#34;https://dl.acm.org/journal/ton&#34;&gt; TON (2020)&lt;/a&gt;, 
     &lt;a href=&#34;https://www.computer.org/csdl/journal/tq/2019/03/08713546/1a3kzC8Ai5y&#34;&gt; TDSC (2018)&lt;/a&gt;, &lt;a href=&#34;https://www.computer.org/csdl/journal/td/2017/12/08103837/13rRUxDqS8c&#34;  target=&#34;_blank&#34;&gt;TPDS (2017)&lt;/a&gt;, &lt;a href=&#34;https://us.sagepub.com/en-us/nam/proceedings-of-the-institution-of-mechanical-engineers-part-o-journal-of-risk-and-reliability&#34;  target=&#34;_blank&#34;&gt; Part O: Journal of Risk and Reliability (2017, 2018) &lt;/a&gt;
     &lt;/li&gt;
-    &lt;li&gt; &lt;font color=&#34;#cc4b37&#34;&gt; Conference Reviewer:&lt;/font&gt; &lt;a href=&#34;https://icml.cc/Conferences/2021/Dates&#34; target=&#34;_blank&#34;&gt; ICML (2021)&lt;/a&gt;, &lt;a href=&#34;https://nips.cc/Conferences/2021/&#34; target=&#34;_blank&#34;&gt; NeurIPS (2021) &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;font color=&#34;#cc4b37&#34;&gt; Conference Reviewer:&lt;/font&gt; &lt;a href=&#34;https://icml.cc/Conferences/2021/Dates&#34; target=&#34;_blank&#34;&gt; ICML (2021)&lt;/a&gt;, &lt;a href=&#34;https://nips.cc/Conferences/2021/&#34; target=&#34;_blank&#34;&gt; NeurIPS (2021) &lt;/a&gt;, &lt;a href=&#34;https://iclr.cc&#34; target=&#34;_blank&#34;&gt; ICLR (2022) &lt;/a&gt;&lt;/li&gt;
     &lt;li&gt; &lt;font color=&#34;#cc4b37&#34;&gt; External/Sub Conference Reviewer:&lt;/font&gt;  &lt;a href=&#34;https://www.eurosys2020.org/call-for-shadow-pc-participation/&#34; target=&#34;_blank&#34;&gt; EuroSys (2020 Shadow PC)&lt;/a&gt;, &lt;a href=&#34;https://sc17.supercomputing.org&#34;  target=&#34;_blank&#34;&gt; SC (2017)&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/site/hpcmaspa2017/home&#34;  target=&#34;_blank&#34;&gt; HPCMASPA (2017) &lt;/a&gt;
     &lt;/li&gt;
     &lt;li&gt;
