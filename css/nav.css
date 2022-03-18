@@ -1,0 +1,39 @@
+/* header and footer areas */
+.menu { 
+    padding: 0; 
+    font-size:15pt;
+    font-weight: bold;
+    padding: 0px;
+    /* background:rgb(192, 179, 236); */
+}
+.menu li { display: inline-block; }
+.article-meta, .menu a {
+  text-decoration: none;
+  background: rgb(218, 209, 240);
+  padding: 5px;
+  border-radius: 5px;
+}
+.menu, .article-meta, footer { text-align: center; }
+.title { font-size: 1.1em; }
+footer a { text-decoration: none; }
+hr {
+  border-style: dashed;
+  color: #ddd;
+}
+
+
+.pub-menu { 
+    padding: 0; 
+    font-size:15pt;
+    font-weight: bold;
+    padding: 0px;
+    /* background:rgb(192, 179, 236); */
+}
+.pub-menu li { display: inline-block; }
+.article-meta, .pub-menu a {
+  text-decoration: none;
+  background: rgb(218, 209, 240);
+  padding: 5px;
+  border-radius: 5px;
+}
+.pub-menu, .article-meta, footer { text-align: center; }

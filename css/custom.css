@@ -1,0 +1,103 @@
+
+.header {
+    background-color: rgb(229, 223, 235);
+    font-weight: bold;
+    color: #E84A27;
+    font-size: larger;
+  }
+  .pub-header {
+    background-color: rgb(229, 223, 235);
+    font-weight: bold;
+    color: #E84A27;
+    font-size: 16pt;
+    text-align: left;
+  }
+  
+  .content {
+    /* background-color: #dfefff; */
+  }
+  ul {
+  list-style-type: square;
+  list-style-position: inside;
+  padding: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+  }
+  a {
+  text-decoration: none;
+  }
+  a:link, a:visited {
+    color: blue;
+  }
+  a:hover {
+    color: red;
+  }
+  .pub-link {
+  border-style: solid;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 2px;
+  margin: 4px;
+  /* border-radius: 10px; */
+  }
+  
+  div#pub-list ul li {
+  /* padding-bottom: 50px; */
+  margin:0 0 0px 0;
+  }
+  div#pub-list ul {
+  list-style-type: none;
+  }
+  .pub-left{
+  font-weight: bold;
+  text-align: center;
+  font-size: 15pt;
+  color:darkblue;
+  padding: 0;
+  }
+  .pub-right{
+  width: 80%;
+  }
+  .pub-title{
+  font-weight:bolder;
+  font-size: 14pt;
+  }
+  table#pub {
+  border: none;
+  text-align:left;
+  padding: 0;
+  margin: 0;
+  border-collapse: collapse;
+  }
+  td{
+    padding: 10px;
+  }
+  .awards{
+    color: rgb(194, 53, 2);
+    font-weight: bold;
+    font-size: 14pt;
+    border-style: solid;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    margin: 4px;
+  }
+  .pub-media{
+    background-color: azure;
+    font-weight: bold;
+    font-size: 14pt;
+    border-style: solid;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    margin: 4px;
+  }
+
+
+  td#short{
+    border-left: 10pt solid rgba(255,221,87,.5);
+  }
+  td#conference{
+    border-left: 10pt solid rgba(126,156,244,.5);
+  }
+  td#journal{
+    border-left: 10pt solid rgba(244,126,156,.5);
+  }

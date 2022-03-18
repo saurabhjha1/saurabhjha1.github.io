@@ -1,0 +1,442 @@
+{
+    "all_pubs":[
+        {
+            "title": "BayesPerf: Minimizing Performance Monitoring Errors Using Bayesian Statistics",
+            "date": "2020-11-15",
+            "authors": ["Subho S. Banerjee", "Saurabh Jha", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "abstract": "",
+            "featured": false,
+            "publication": "In Proceedings of the 26th International Conference on Architectural Support for Programming Languages and Operating Systems",
+            "urls":{
+                "pdf": "/pubs/ASPLOS21/paper.pdf",
+                "slides": "/pubs/ASPLOS21/slides.pdf" ,
+                "talk": "https://youtu.be/Y3d8Vu8g-Rw" ,
+                "doi": "",
+                "cite": "/pubs/ASPLOS21/cite.bib" 
+            },
+            "doi": "",
+            "venue": "ASPLOS'21",
+            "pub_type": "conference"
+        },
+        {
+            "title": "AV-FUZZER: Finding safety violations in autonomous driving systems",
+            "date": "2020-08-01",
+            "authors": ["Guanpeng Li", "Yiran Li", "Saurabh Jha", "T. Tsai", "S. K. S. Hari", "M. B. Sullivan", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": false,
+            "publication": "In Proceedings of the IEEE International Conference on Software Reliability Engineering",
+            "awards": ["Best Paper"],
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/ISSRE20/paper.pdf",
+                "slides": "/pubs/ISSRE20/slides.pdf" ,
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/ISSRE20/cite.bib", 
+                "code": "https://github.com/cclinus/AV-Fuzzer"
+            },
+            "venue": "ISSRE'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Exploiting Temporal Data Diversity for Detecting Safety-critical Faults in AV Compute Systems",
+            "date": "2022-06-27",
+            "authors": ["Saurabh Jha", "Shengkun Cui", "T. Tsai", "S. K. S. Hari", "M. B. Sullivan", "Zbigniew T. Kalbarczyk", "Steve Keckler", "Ravishankar K. Iyer"],
+            "featured": false,
+            "publication": "In Proceedings of the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/DSN22/paper.pdf",
+                "slides": "" ,
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/DSN22/cite.bib" 
+            },
+            "venue": "DSN'22",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Delay sensitivity-driven congestion mitigation for HPC systems",
+            "date": "2021-06-04",
+            "authors": ["Archit Patke", "Saurabh Jha", "Haoran Qiu", "Jim Brandt", "Ann Gentile", "Joe Greenseid", "Zbigniew Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": false,
+            "publication": "In Proceedings of the ACM International Conference on Supercomputing",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/ICS21/paper.pdf",
+                "slides": "" ,
+                "talk": "" ,
+                "doi": "https://doi.org/10.1145/3447818.3460362",
+                "cite": "/pubs/ICS21/cite.bib" 
+            },
+            "venue": "ICS'21",
+            "pub_type": "conference"
+        },
+        {
+            "title": "FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-oriented Microservices",
+            "date": "2020-11-01",
+            "authors": ["Haoran Qui", "Subho Banerjee", "Saurabh Jha", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": false,
+            "publication": "In Proceedings of the 14th USENIX Symposium on Operating Systems Design and Implementation",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/OSDI20/paper.pdf",
+                "slides":  "/pubs/OSDI20/slides.pdf",
+                "talk": "https://youtu.be/On8u-ITduWU" ,
+                "doi": "https://dl.acm.org/doi/10.5555/3488766.3488812",
+                "cite": "/pubs/OSDI20/cite.bib" 
+            },
+            "venue": "OSDI'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Live Forensics for HPC Systems: A Case Study on Distributed Storage Systems",
+            "date": "2020-11-14",
+            "authors": ["Saurabh Jha", "Shengkun Cui", "Subho Banerjee", "Tianyin Xu", "Jeremy Enos", "Mike Showerman", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the SC20: International Conference for High Performance Computing, Networking, Storage and Analysis",
+            "awards": ["Best Student Paper Finalist", "Best Paper Finalist"],
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/SC20/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "code": "https://github.com/saurabhjha1/kscope-artifact",
+                "doi": "https://doi.org/10.1109/SC41405.2020.00069",
+                "cite": "/pubs/SC20/cite.bib" 
+            },
+            "venue": "SC'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Inductive Bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters",
+            "date": "2020-07-13",
+            "authors": ["Subho Banerjee", "Saurabh Jha", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 37th International Conference on Machine Learnings",
+            "media_coverage": {
+                "CSL News": "http://csl.illinois.edu/news/new-computation-tool-make-dna-analysis-more-affordable-efficient"
+            },
+            "urls":{
+                "pdf": "/pubs/ICML20/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/ICML20/cite.bib" 
+            },
+            "venue": "ICML'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "ML-driven Malware that Targets AV Safety",
+            "date": "2020-07-13",
+            "authors": ["Saurabh Jha", "Shengkun Cui", "Subho Banerjee", "James Cyriac", "T. Tsai", "Zbigniew T. Kalbarczyk", "Steve Keckler", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/DSN20a/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/DSN20a/cite.bib" 
+            },
+            "venue": "DSN'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems",
+            "date": "2020-07-13",
+            "authors": [ "Rakesh Kumar", "Saurabh Jha", "Ashraf Mahgoub", "Zbigniew T Kalbarczyk", "Kramer William", "Ravishankar K Iyer", "Saurabh Bagchi"],
+            "featured": true,
+            "publication": "In Proceedings of the 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/DSN20b/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/DSN20b/cite.bib" 
+            },
+            "venue": "DSN'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Measuring Congestion in High-Performance Datacenter Interconnects",
+            "date": "2020-02-13",
+            "authors": ["Saurabh Jha" , "Archit Patke", "Jim Brandt", "Ann Gentile", "Benjamin Lim", "Mike Showerman", "Greg Bauer", "Larry Kaplan", "Zbigniew Kalbarczyk", "William Kramer", "Ravi Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI 20)",
+            "urls":{
+                "pdf": "/pubs/NSDI20/paper.pdf",
+                "slides":  "/pubs/NSDI20/slides.pdf",
+                "talk": "https://youtu.be/IhrzGPKsIbY" ,
+                "doi": "https://www.usenix.org/venue/nsdi20/presentation/jha",
+                "cite": "/pubs/NSDI20/cite.bib",
+                "code": "https://github.com/CSLDepend/monet",
+                "data": "https://databank.illinois.edu/datasets/IDB-2921318"
+
+            },
+            "venue": "NSDI'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "A Study of Network Congestion in Two Supercomputing High-Speed Interconnects",
+            "date": "2020-02-13",
+            "authors": ["Saurabh Jha", "Archit Patke", "Jim Brandt", "Ann Gentile", "Mike Showerman", "Eric Roman", "Zbigniew Kalbarczyk", "William Kramer", "Ravi Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the IEEE 26th Annual Symposium on High-Performance Interconnects (HOTI 20)",
+            "urls":{
+                "pdf": "/pubs/HOTI20/paper.pdf",
+                "slides":  "/pubs/HOTI20/slides.pdf",
+                "cite": "/pubs/NSDI20/cite.bib"
+
+            },
+            "venue": "HOTI'20",
+            "pub_type": "conference"
+        },
+        {
+            "title": "ML-Based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection",
+            "date": "2019-06-24",
+            "authors": ["Saurabh Jha", "Subho Banerjee", "T. Tsai", "S. K. S. Hari", "M. B. Sullivan", "Zbigniew T. Kalbarczyk", "Steve Keckler", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+            "media_coverage": {
+                "Science Daily": "https://www.sciencedaily.com/releases/2019/10/191025170813.htm",
+                "Daily Illini": "https://dailyillini.com/news/2019/11/07/researchers-look-to-increase-safety-in-self-driving-cars/",
+                "Guancha.cn": "https://www.guancha.cn/industry-science/2019_11_01_523593.shtml",
+                "Space Daily": "http://www.spacedaily.com/reports/Researchers_develop_platform_for_scalable_testing_of_autonomous_vehicle_safety_999.html",
+                "Eureka Alert": "https://eurekalert.org/pub_releases/2019-10/uoic-rdp102519.php",
+                "Sina": "http://finance.sina.com.cn/stock/relnews/us/2019-11-01/doc-iicezuev6468108.shtml"
+            },
+            "urls":{
+                "pdf": "/pubs/DSN19/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.1109/DSN.2019.00025",
+                "cite": "/pubs/DSN19/cite.bib" 
+            },
+            "venue": "DSN'19",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Hands Off the Wheel in Autonomous Vehicles?: A Systems Perspective on over a Million Miles of Field Data",
+            "date": "2018-06-24",
+            "authors": ["Subho Banerjee", "Saurabh Jha", "James Cyriac", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+            "urls":{
+                "pdf": "/pubs/DSN18/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.1109/DSN.2018.00066",
+                "cite": "/pubs/DSN18/cite.bib",
+                "code": "https://gitlab.engr.illinois.edu/DEPEND/autonomouscars.git"
+            },
+            "venue": "DSN'18",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Main Memory Hash Joins on Intel Xeon Phi Processors: An Experimental Approach",
+            "date": "2015-06-24",
+            "authors": ["Saurabh Jha", "Bingsheng He", "Mian Lu", "Xuntao Cheng", "Huynh Phung Huynh"],
+            "featured": false,
+            "publication": "In Proceedings of the 2015 VLDB Endowment (VLDB)",
+            "urls":{
+                "pdf": "/pubs/VLDB15/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.14778/2735703.2735704",
+                "cite": "/pubs/VLDB15/cite.bib",
+                "code": "https://github.com/saurabhjha1/mic-hashjoin.git"
+            },
+            "venue": "VLDB'15",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Data-Driven Application-Oriented Reliability Model of a High-Performance Computing System",
+            "date": "2021-06-24",
+            "authors": ["Bentolhoda Jafary", "Saurabh Jha", "Lance Findella", "Ravishankar K. Iyer"],
+            "featured": false,
+            "publication": "In Proceedings of the IEEE Transactions on Reliability",
+            "urls":{
+                "pdf": "/pubs/TOR21/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.1109/TR.2021.3085582",
+                "cite": "/pubs/TOR21/cite.bib"
+            },
+            "venue": "TOR'21",
+            "pub_type": "journal"
+        },
+        {
+            "title": " Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters",
+            "date": "2018-06-24",
+            "authors": ["Saurabh Jha", "Valerio Formicola", "Catello Di Martino", "Mark Dalton", "William Kramer", "Zbigniew Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": false,
+            "publication": "In Proceedings of the IEEE Transactions on Dependable and Secure Computing",
+            "urls":{
+                "pdf": "/pubs/TDSC18/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.1109/TDSC.2017.2737537",
+                "cite": "/pubs/TDSC18/cite.bib"
+            },
+            "venue": "TDSC'18",
+            "pub_type": "journal"
+        },
+        {
+            "title": "AVFI: Fault Injection for Autonomous Vehicles",
+            "date": "2018-06-24",
+            "authors": ["Saurabh Jha", "Subho Banerjee", "James Cyriac", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W)",
+            "urls":{
+                "pdf": "/pubs/DSN18b/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.1109/DSN-W.2018.00027",
+                "cite": "/pubs/DSN18b/cite.bib",
+                "code": "https://github.com/CSLDepend/AVFI"
+            },
+            "venue": "DSN'18",
+            "pub_type": "short"
+        },
+        {
+            "title": "Towards a Bayesian Approach for Assessing Fault Tolerance of Deep Neural Networks",
+            "date": "2019-06-24",
+            "authors": ["Subho Banerjee", "James Cyriac", "Saurabh Jha", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks – Supplemental Volume (DSN-S)",
+            "urls":{
+                "pdf": "/pubs/DSN19b/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.1109/DSN-S.2019.00018",
+                "cite": "/pubs/DSN19b/cite.bib"
+            },
+            "venue": "DSN'19",
+            "pub_type": "short"
+        },
+        {
+            "title": "Evaluating hardware memory disaggregation under delay and contention",
+            "date": "2022-03-08",
+            "authors": ["Archit Patke","Haoran Qiu", "Saurabh Jha", "Srikumar Venugopal", "Michele Gazzetti", "Christian Pinto", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 36th IEEE International Parallel & Distributed Processing Symposium Workshops (IPDPS-W)",
+            "urls":{
+                "pdf": "",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "",
+                "code": ""
+            },
+            "venue": "COMPSYS'22",
+            "pub_type": "short"
+        },        
+        {
+            "title": "Is Function-as-a-Service a Good Fit for Latency-Critical Services?",
+            "date": "2021-11-01",
+            "authors": ["Haoran Qiu", "Saurabh Jha", "Subho S. Banerjee", "Archit Patke", "Chen Wang", "Hubertus Franke", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the  Seventh International Workshop on Serverless Computing colocated with ACM/IFIP International Middleware Conference",
+            "urls":{
+                "pdf": "/pubs/WOSC21/paper.pdf",
+                "slides":  "",
+                "talk": "https://www.youtube.com/watch?v=SaksPFpLv-s&feature=youtu.be" ,
+                "doi": "https://dl.acm.org/doi/10.1145/3493651.3493666",
+                "cite": "/pubs/WOSC21/cite.bib",
+                "code": "https://github.com/James-QiuHaoran/serverless-wosc7"
+            },
+            "venue": "WOSC'21",
+            "pub_type": "short"
+        },
+        {
+            "title": "Watch out for the risky actors: Assessing risk in dynamic environments for safe driving",
+            "date": "2021-12-01",
+            "authors": ["Saurabh Jha", "Yan Miao", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In the Workshop on Machine Learning for Autonomous Driving colocated with NeurIPS",
+            "urls":{
+                "pdf": "/pubs/ML4AD21/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/ML4AD/cite.bib",
+                "code": ""
+            },
+            "venue": "ML4AD'21",
+            "pub_type": "short"
+        },
+        {
+            "title": "Holistic Measurement-Driven System Assessment",
+            "date": "2017-06-01",
+            "authors": ["Saurabh Jha", "Jim Brandt", "Ann Gentile", "Zbigniew T. Kalbarczyk", "Greg Bauer", "Jeremy Enos", "Mike Showerman",
+                "Larry Kaplan", "Brett Bode", "Annette Greiner", "Amanda Bonnie", "Mike Mason", "Ravishankar K. Iyer", "William Kramer"],
+            "featured": true,
+            "publication": "In the Workshop on Machine Learning for Autonomous Driving colocated with NeurIPS",
+            "urls":{
+                "pdf": "/pubs/CLUSTER17/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/CLUSTER17/cite.bib",
+                "code": ""
+            },
+            "venue": "CLUSTER'17",
+            "pub_type": "short"
+        },  {
+            "title": "P-HGRMS: A Parallel Hypergraph Based Root Mean Square Algorithm for Image Denoising",
+            "date": "2013-06-01",
+            "authors": ["Tejaswi Agarwal", "Saurabh Jha" , "Rajesh Kanna"],
+            "featured": true,
+            "publication": "In the 22nd ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC)",
+            "awards": ["Best Poster"],
+            "urls":{
+                "pdf": "/pubs/HPDC13/paper.pdf",
+                "slides":  "/pubs/HPDC13/slides.pdf",
+                "talk": "" ,
+                "doi": "",
+                "cite": "",
+                "code": "",
+                "poster":  "/pubs/HPDC13/poster.pdf"
+            },
+            "venue": "HPDC'13",
+            "pub_type": "short"
+        },
+        {
+            "title": "LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications",
+            "date": "2015-06-24",
+            "authors": ["Catello Di Martino", "Saurabh Jha", "William Kramer", "Zbigniew Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": false,
+            "publication": "In Proceedings of the 5th Workshop on Fault Tolerance for HPC at eXtreme Scale colocated with HPDC 2015",
+            "urls":{
+                "pdf": "/pubs/FTXS15/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "https://doi.org/10.1145/2751504.2751511",
+                "cite": "/pubs/FTXS15/cite.bib"
+            },
+            "venue": "FTXS'15",
+            "pub_type": "short"
+        },
+        {
+            "title": "Understanding Fault Scenarios and Impacts through Fault Injection Experiments in Cielo",
+            "date": "2016-06-24",
+            "authors": ["Valerio Formicola", "Saurabh Jha", "Daniel Chen", "Fei Deng", "Amanda Bonnie", "Mike Mason", "Jim Brandt", "Ann Gentile", "Larry Kaplan",
+                "Jason Repik", "Jeremy Enos"," Mike Showerman", "Annette Greiner", "Zbigniew Kalbarczyk", "Ravishankar K. Iyer", "William Kramer"],
+            "featured": false,
+            "publication": "In the 2016 Cray User Group (CUG)",
+            "urls":{
+                "pdf": "/pubs/CUG16/paper.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/CUG16/cite.bib"
+            },
+            "venue": "CUG'16",
+            "pub_type": "short"
+        }
+
+    ]
+}
