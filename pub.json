@@ -436,7 +436,38 @@
             },
             "venue": "CUG'16",
             "pub_type": "short"
+        },
+        {
+            "title": "Automated selection of performance monitors",
+            "date": "2022-02-22",
+            "authors": ["Saurabh Jha", "Amos A. Omokpo", "Karthick Rajamani", "Harigovind Venkatraj Ramasamy"],
+            "featured": false,
+            "publication": "In US Patent Office (USPTO),  US16/818,656, Granted",
+            "urls":{
+                "pdf": "https://patentimages.storage.googleapis.com/81/cb/f6/bdb83a163350c2/US11256598.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": ""
+            },
+            "venue": "Patent",
+            "pub_type": "patent"
+        },
+        {
+            "title": "Hardware fault detection for feedback control systems in autonomous machine applications",
+            "date": "2022-02-17",
+            "authors": ["Tim Tsai", "Saurabh Jha", "Siva Hari", "Michael Sullivan"],
+            "featured": false,
+            "publication": "In US Patent Office (USPTO), US16/994,382, Granted",
+            "urls":{
+                "pdf": "https://patentimages.storage.googleapis.com/9a/c9/82/46d9ee9895050b/US20220048525A1.pdf",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": ""
+            },
+            "venue": "Patent",
+            "pub_type": "patent"
         }
-
     ]
 }
