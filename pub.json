@@ -25,7 +25,9 @@
             "featured": false,
             "publication": "In Proceedings of the IEEE International Conference on Software Reliability Engineering",
             "awards": ["Best Paper"],
-            "media_coverage": [],
+            "media_coverage": {
+                "CSL News": "https://csl.illinois.edu/news/33490"
+            },
             "urls":{
                 "pdf": "/pubs/ISSRE20/paper.pdf",
                 "slides": "/pubs/ISSRE20/slides.pdf" ,
