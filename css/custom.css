@@ -104,3 +104,7 @@
   td#patent{
     border-left: 10pt solid rgba(3, 143, 101, 0.5);
   }
+
+  .justify{
+    text-align: justify;
+  }
