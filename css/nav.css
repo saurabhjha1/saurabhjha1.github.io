@@ -1,7 +1,7 @@
 /* header and footer areas */
 .menu { 
     padding: 0; 
-    font-size:15pt;
+    font-size:15  pt;
     font-weight: bold;
     padding: 0px;
     /* background:rgb(192, 179, 236); */
@@ -20,8 +20,26 @@ hr {
   border-style: dashed;
   color: #ddd;
 }
+/* Social Menu */
+.social-menu{
+  padding: 5px; 
+  font-size:12pt;
+  font-weight: bold;
+}
+.social-menu li { 
+  display: inline-block; 
+  margin-right:5px
+}
 
-
+.social-menu a {
+  display: block;
+  transition: all .1s ease-in-out; 
+}
+.social-menu a:hover {
+      transform: scale(1.5);
+      color: #fff;
+}
+/* Pub Menu */
 .pub-menu { 
     padding: 0; 
     font-size:15pt;
