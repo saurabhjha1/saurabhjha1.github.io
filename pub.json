@@ -57,6 +57,23 @@
             "pub_type": "conference"
         },
         {
+            "title": "Localizing and Explaining Faults in Microservices using Distributed Tracing",
+            "date": "2022-07-11",
+            "authors": ["Jesus Rios", "Saurabh Jha", "Larisa Shwartz"],
+            "featured": false,
+            "publication": "In Proceedings of the 15th International Conference on Cloud Computing (CLOUD)",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "",
+                "slides": "" ,
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/CLOUD22/cite.bib" 
+            },
+            "venue": "CLOUD'22",
+            "pub_type": "conference"
+        },
+        {
             "title": "Delay sensitivity-driven congestion mitigation for HPC systems",
             "date": "2021-06-04",
             "authors": ["Archit Patke", "Saurabh Jha", "Haoran Qiu", "Jim Brandt", "Ann Gentile", "Joe Greenseid", "Zbigniew Kalbarczyk", "Ravishankar K. Iyer"],
