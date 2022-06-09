@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Saurabh Jha</title>
+    <title>Tags on Saurabh Jha&#39;s Home Page</title>
     <link>https://saurabhjha1.github.io/tags/</link>
-    <description>Recent content in Tags on Saurabh Jha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; saurabhjha.in {year}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://saurabhjha1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>high performance computing; congestion</title>
-      <link>https://saurabhjha1.github.io/tags/high-performance-computing-congestion/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/high-performance-computing-congestion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CUDA</title>
-      <link>https://saurabhjha1.github.io/tags/cuda/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/cuda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mirrored traveling tournament problem</title>
-      <link>https://saurabhjha1.github.io/tags/mirrored-traveling-tournament-problem/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/mirrored-traveling-tournament-problem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parallel simulated annealing</title>
-      <link>https://saurabhjha1.github.io/tags/parallel-simulated-annealing/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/parallel-simulated-annealing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sports league scheduling</title>
-      <link>https://saurabhjha1.github.io/tags/sports-league-scheduling/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/sports-league-scheduling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPGPU</title>
-      <link>https://saurabhjha1.github.io/tags/gpgpu/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/gpgpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image analysis</title>
-      <link>https://saurabhjha1.github.io/tags/image-analysis/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/image-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parallel processing</title>
-      <link>https://saurabhjha1.github.io/tags/parallel-processing/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://saurabhjha1.github.io/tags/parallel-processing/</guid>
-      <description></description>
-    </item>
-    
+    <description>Recent content in Tags on Saurabh Jha&#39;s Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://saurabhjha1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
