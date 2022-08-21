@@ -64,11 +64,11 @@
             "publication": "In Proceedings of the 15th International Conference on Cloud Computing (CLOUD)",
             "media_coverage": [],
             "urls":{
-                "pdf": "",
+                "pdf": "/pubs/CLOUD22/CLOUD22.pdf",
                 "slides": "" ,
                 "talk": "" ,
                 "doi": "",
-                "cite": "/pubs/CLOUD22/cite.bib" 
+                "cite": "" 
             },
             "venue": "CLOUD'22",
             "pub_type": "conference"
@@ -488,6 +488,22 @@
             },
             "venue": "Patent",
             "pub_type": "patent"
+        },
+        {
+            "title": "WOLFFI: A fault injection platform for learning AIOps models",
+            "date": "2022-08-08",
+            "authors": ["Frank Bagehorn", "Jesus Rios", "Saurabh Jha", "Robert Filepp", "Larisa Shwartz", "Naoki Abe", "Xing Yang"],
+            "featured": false,
+            "publication": "In 2022 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+            "urls":{
+                "pdf": "",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": ""
+            },
+            "venue": "ASE'22",
+            "pub_type": "conference"
         }
     ]
 }
