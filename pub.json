@@ -44,7 +44,7 @@
             "date": "2022-06-27",
             "authors": ["Saurabh Jha", "Shengkun Cui", "T. Tsai", "S. K. S. Hari", "M. B. Sullivan", "Zbigniew T. Kalbarczyk", "Steve Keckler", "Ravishankar K. Iyer"],
             "featured": false,
-            "publication": "In Proceedings of the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks",
+            "publication": "In Proceedings of the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
             "media_coverage": [],
             "urls":{
                 "pdf": "/pubs/DSN22/paper.pdf",
@@ -498,11 +498,27 @@
             "urls":{
                 "pdf": "",
                 "slides":  "",
-                "talk": "" ,
+                "talk": "https://conf.researchr.org/details/ase-2022/ase-2022-industry-showcase/10/WOLFFI-A-fault-injection-platform-for-learning-AIOps-models" ,
                 "doi": "",
                 "cite": ""
             },
             "venue": "ASE'22",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Fault Injection based Interventional Causal Learning for Distributed Applications",
+            "date": "2023-02-07",
+            "authors": ["Qing Wang", "Jesus Rios", "Saurabh Jha", "Karthikeyan Shanmugam", "Frank Bagehorn", "Xi Yang", "Robert Filepp", "Naoki Abe", "Larisa Shwartz"],
+            "featured": true,
+            "publication": "In The Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI)",
+            "urls":{
+                "pdf": "",
+                "slides":  "",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/IAAI23/cite.bib"
+            },
+            "venue": "IAAI'23",
             "pub_type": "conference"
         }
     ]
