@@ -1,6 +1,117 @@
 {
     "all_pubs":[
         {
+            "title": "Fault Localization Using Interventional Causal Learning for Cloud-Native Applications",
+            "date": "2024-05-30",
+            "authors": ["Saurabh Jha", "Jesus Rios", "Frank Bagehorn", "Larisa Shwartz", "Naoki Abe"],
+            "featured": true,
+            "publication": "In Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/DSN2024c/paper.pdf",
+                "talk": "" ,
+                "doi": "",
+                "cite": "/pubs/DSN2024c/cite.bib" 
+            },
+        "venue": "DSN'24",
+        "pub_type": "conference"
+        },
+        {
+            "title": "iPrism: Characterize and Mitigate Risk by Quantifying Change in Escape Routes",
+            "date": "2024-06-01",
+            "authors": ["Shengkun Cui", "Saurabh Jha", "Ziheng Chen", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "featured": true,
+            "publication": "In Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/DSN2024a/paper.pdf",
+                "slides": "/pubs/DSN2024a/slides.pdf" ,
+                "talk": "" ,
+                "doi": "",
+                "code": "https://zenodo.org/records/10783901",
+                "cite": "/pubs/DSN2024a/cite.bib" 
+            },
+        "venue": "DSN'24",
+        "pub_type": "conference"
+        },
+        {
+            "title": "When Green Computing Meets Performance and Resilience SLOs",
+            "date": "2024-05-30",
+            "authors": ["Haoran Qiu", "Weichao Mao", "Chen Wang", "Saurabh Jha", "Hubertus Franke", "Zbigniew T. Kalbarczyk", "Tamer Başar", "Ravishankar K. Iyer"],
+            "abstract": "",
+            "featured": true,
+            "publication": "In Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'24 Disrupt Track)",
+            "urls":{
+                "pdf": "/pubs/DSN2024b/paper.pdf",
+                "cite": "/pubs/DSN2024b/cite.bib"
+            },
+            "doi": "",
+            "venue": "DSN'24",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Efficient Interactive LLM Serving with Proxy Model-based Sequence Length Prediction",
+            "date": "2024-04-30",
+            "authors": ["Haoran Qiu", "Weichao Mao", "Archit Patke", "Shengkun Cui", "Saurabh Jha", "Chen Wang", "Hubertus Franke", "Zbigniew T. Kalbarczyk", "Tamer Başar", "Ravishankar K. Iyer"],
+            "abstract": "",
+            "featured": true,
+            "publication": "In Proceedings of the 5th International Workshop on Cloud Intelligence / AIOps at ASPLOS 2024 (AIOps 2024)",
+            "urls":{
+                "preprint": "https://arxiv.org/abs/2404.08509",
+                "cite": "/pubs/AIOPS2024a/cite.bib",
+                "code": "https://github.com/James-QiuHaoran/LLM-serving-with-proxy-models"
+            },
+            "doi": "",
+            "venue": "AIOps'24",
+            "pub_type": "conference"
+        },
+        {
+            "title": "QLM: Queue Management for Large Language Model Serving.",
+            "date": "2024-04-30",
+            "authors": ["Archit Patke", "Dhemath Reddy", "Saurabh Jha", "Christian Pinto", "Haoran Qiu", "Shengkun Cui", "Chandra Narayanaswami", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "abstract": "",
+            "featured": true,
+            "publication": "In Proceedings of the 5th International Workshop on Cloud Intelligence / AIOps at ASPLOS 2024 (AIOps 2024)",
+            "urls":{
+                "paper": "/pubs/AIOPS2024b/paper.pdf",
+                "cite": "/pubs/AIOPS2024b/cite.bib"
+            },
+            "doi": "",
+            "venue": "AIOps'24",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Power-aware Deep Learning Model Serving with µ-Serve.",
+            "date": "2024-05-30",
+            "authors": ["Haoran Qiu", "Weichao Mao", "Archit Patke", "Shengkun Cui", "Saurabh Jha", "Chen Wang", "Hubertus Franke", "Zbigniew T. Kalbarczyk", "Tamer Başar", "Ravishankar K. Iyer"],
+            "abstract": "",
+            "featured": true,
+            "publication": "In Proceedings of the 2024 USENIX Annual Technical Conference (ATC ‘24)",
+            "urls":{
+                "preprint": "/pubs/ATC2024/paper.pdf",
+                "cite": "/pubs/ATC2024/cite.bib", 
+                "slides": "https://www.usenix.org/conference/atc24/presentation/qiu"
+            },
+            "doi": "",
+            "venue": "ATC'24",
+            "pub_type": "conference"
+        },
+        {
+            "title": "One Queue Is All You Need: Resolving Head-of-Line Blocking in Large Language Model Serving",
+            "date": "2024-05-01",
+            "authors": ["Archit Patke", "Dhemath Reddy", "Saurabh Jha", "Haoran Qiu", "Christian Pinto", "Shengkun Cui", "Chandra Narayanaswami", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "abstract": "",
+            "featured": true,
+            "publication": "In Submission",
+            "urls":{
+                "preprint": "/pubs/ARXIV2024a/paper.pdf",
+                "cite": "/pubs/ARXIV2024a/cite.bib" 
+            },
+            "doi": "",
+            "venue": "ArXiv'24",
+            "pub_type": "conference"
+        },
+        {
             "title": "BayesPerf: Minimizing Performance Monitoring Errors Using Bayesian Statistics",
             "date": "2020-11-15",
             "authors": ["Subho S. Banerjee", "Saurabh Jha", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
@@ -71,6 +182,23 @@
                 "cite": "" 
             },
             "venue": "CLOUD'22",
+            "pub_type": "conference"
+        },
+        {
+            "title": "SAM: Subseries Augmentation-based Meta-learning for Generalizing AIOps Model in Multi-Cloud Migration.",
+            "date": "2024-05-30",
+            "authors": ["Xi Yang", "Paulito Palmes", "Saurabh Jha", "Bekir Turkkan", "Gerard Vanloo", "Frank Bagehorn", "Chandra Narayanaswami", "Larisa Shwartz", "Naoki Abe", "Yu Deng", "Daby M. Sow"],
+            "featured": false,
+            "publication": "In Proceedings of the 16th International Conference on Cloud Computing (CLOUD)",
+            "media_coverage": [],
+            "urls":{
+                "pdf": "/pubs/CLOUD2024/paper.pdf",
+                "slides": "" ,
+                "talk": "" ,
+                "doi": "",
+                "cite": "" 
+            },
+            "venue": "CLOUD'24",
             "pub_type": "conference"
         },
         {
@@ -519,6 +647,23 @@
                 "cite": "/pubs/IAAI23/cite.bib"
             },
             "venue": "IAAI'23",
+            "pub_type": "conference"
+        },
+        {
+            "title": "Optimizing IT FinOps and Sustainability through Unsupervised Workload Characterization ",
+            "date": "2024-03-24",
+            "authors": ["Xi Yang", "Rohan R. Arora", "Saurabh Jha", "Chandra Narayanaswami",
+            "Cheuk Lam", "Jerrold Leichter", "Yu Deng", "Daby M. Sow"],
+            "featured": true,
+            "publication": "In The Thirty-Eighth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI)",
+            "urls":{
+                "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/30340",
+                "slides":  "https://underline.io/lecture/91512-optimizing-it-finops-and-sustainability-through-unsupervised-workload-characterization",
+                "talk": "https://underline.io/lecture/91512-optimizing-it-finops-and-sustainability-through-unsupervised-workload-characterization" ,
+                "doi": "https://doi.org/10.1609/aaai.v38i21.30340 ",
+                "cite": "/pubs/IAAI24/cite.bib"
+            },
+            "venue": "AAAI-24",
             "pub_type": "conference"
         }
     ]
