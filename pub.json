@@ -659,7 +659,7 @@
             "Cheuk Lam", "Jerrold Leichter", "Yu Deng", "Daby M. Sow"],
             "featured": true,
             "publication": "In The Thirty-Eighth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI)",
-            "awards": ["Integrated with IBM Turbonomic"],
+            "awards": ["Ongoing integration in IBM Turbonomic"],
             "urls":{
                 "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/30340",
                 "slides":  "https://underline.io/lecture/91512-optimizing-it-finops-and-sustainability-through-unsupervised-workload-characterization",
