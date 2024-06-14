@@ -7,11 +7,12 @@
             "featured": true,
             "publication": "In Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)",
             "media_coverage": [],
+            "awards": ["Insights used by IBM Instana"],
             "urls":{
                 "pdf": "/pubs/DSN2024c/paper.pdf",
-                "talk": "" ,
-                "doi": "",
-                "cite": "/pubs/DSN2024c/cite.bib" 
+                "interview":"https://mediacenter.ibm.com/media/The+Inside+IBM+Instana+Observability+Webcast+%E2%80%93+Episode+4A+Probable+Root+Cause/1_z9wmh2o0",
+                "product annoucment": "https://www.ibm.com/blog/",
+                "cite": "/pubs/DSN2024c/cite.bib"
             },
         "venue": "DSN'24",
         "pub_type": "conference"
@@ -71,7 +72,8 @@
             "authors": ["Archit Patke", "Dhemath Reddy", "Saurabh Jha", "Christian Pinto", "Haoran Qiu", "Shengkun Cui", "Chandra Narayanaswami", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
             "abstract": "",
             "featured": true,
-            "publication": "In Proceedings of the 5th International Workshop on Cloud Intelligence / AIOps at ASPLOS 2024 (AIOps 2024)",
+            "publication": "In Proceedings of the 5th International Workshop on Cloud Intelligence / AIOps at ASPLOS 2024 (AIOps 2024).",
+            "awards": ["Insights used by IBM watsonx"],
             "urls":{
                 "paper": "/pubs/AIOPS2024b/paper.pdf",
                 "cite": "/pubs/AIOPS2024b/cite.bib"
@@ -102,7 +104,8 @@
             "authors": ["Archit Patke", "Dhemath Reddy", "Saurabh Jha", "Haoran Qiu", "Christian Pinto", "Shengkun Cui", "Chandra Narayanaswami", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
             "abstract": "",
             "featured": true,
-            "publication": "In Submission",
+            "publication": "In Submission.",
+            "awards": ["Ongoing integration by IBM watsonx"],
             "urls":{
                 "preprint": "/pubs/ARXIV2024a/paper.pdf",
                 "cite": "/pubs/ARXIV2024a/cite.bib" 
@@ -241,12 +244,12 @@
             "authors": ["Saurabh Jha", "Shengkun Cui", "Subho Banerjee", "Tianyin Xu", "Jeremy Enos", "Mike Showerman", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
             "featured": true,
             "publication": "In Proceedings of the SC20: International Conference for High Performance Computing, Networking, Storage and Analysis",
-            "awards": ["Best Student Paper Finalist", "Best Paper Finalist"],
+            "awards": ["Integrated with IBM Instana", "Best Student Paper Finalist", "Best Paper Finalist"],
             "media_coverage": [],
             "urls":{
                 "pdf": "/pubs/SC20/paper.pdf",
-                "slides":  "",
-                "talk": "" ,
+                "interview":"https://mediacenter.ibm.com/media/The+Inside+IBM+Instana+Observability+Webcast+%E2%80%93+Episode+4A+Probable+Root+Cause/1_z9wmh2o0",
+                "product annoucment": "https://www.ibm.com/blog/probable-root-cause-accelerating-incident-remediation-with-causal-ai/",
                 "code": "https://github.com/saurabhjha1/kscope-artifact",
                 "doi": "https://doi.org/10.1109/SC41405.2020.00069",
                 "cite": "/pubs/SC20/cite.bib" 
@@ -656,6 +659,7 @@
             "Cheuk Lam", "Jerrold Leichter", "Yu Deng", "Daby M. Sow"],
             "featured": true,
             "publication": "In The Thirty-Eighth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI)",
+            "awards": ["Integrated with IBM Turbonomic"],
             "urls":{
                 "pdf": "https://ojs.aaai.org/index.php/AAAI/article/view/30340",
                 "slides":  "https://underline.io/lecture/91512-optimizing-it-finops-and-sustainability-through-unsupervised-workload-characterization",
