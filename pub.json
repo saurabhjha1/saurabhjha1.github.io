@@ -627,11 +627,11 @@
             "featured": false,
             "publication": "In 2022 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
             "urls":{
-                "pdf": "",
+                "pdf": "/pubs/ASE2022/paper.pdf",
                 "slides":  "",
                 "talk": "https://conf.researchr.org/details/ase-2022/ase-2022-industry-showcase/10/WOLFFI-A-fault-injection-platform-for-learning-AIOps-models" ,
                 "doi": "",
-                "cite": ""
+                "cite": "/pubs/ASE2022/cite.bib"
             },
             "venue": "ASE'22",
             "pub_type": "conference"
