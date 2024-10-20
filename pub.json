@@ -99,19 +99,19 @@
             "pub_type": "conference"
         },
         {
-            "title": "One Queue Is All You Need: Resolving Head-of-Line Blocking in Large Language Model Serving",
-            "date": "2024-05-01",
-            "authors": ["Archit Patke", "Dhemath Reddy", "Saurabh Jha", "Haoran Qiu", "Christian Pinto", "Shengkun Cui", "Chandra Narayanaswami", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
+            "title": "Queue Management for SLO-Oriented Large Language Model Serving",
+            "date": "2024-09-26",
+            "authors": ["Archit Patke", "Dhemath Reddy", "Saurabh Jha", "Haoran Qiu", "Christian Pinto", "Chandra Narayanaswami", "Zbigniew T. Kalbarczyk", "Ravishankar K. Iyer"],
             "abstract": "",
             "featured": true,
-            "publication": "In Submission.",
+            "publication": "In Proceedings of the 13th Symposium on Cloud Computing (SoCC)",
             "awards": ["Ongoing integration by IBM watsonx"],
             "urls":{
-                "preprint": "/pubs/ARXIV2024a/paper.pdf",
-                "cite": "/pubs/ARXIV2024a/cite.bib" 
+                "preprint": "/pubs/SoCC2024/paper.pdf",
+                "cite": "/pubs/SoCC2024/cite.bib" 
             },
             "doi": "",
-            "venue": "ArXiv'24",
+            "venue": "SoCC'24",
             "pub_type": "conference"
         },
         {
