@@ -1,6 +1,83 @@
 {
     "all_pubs":[
         {
+                "title": "ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks",
+                "date": "2025-05-07",
+                "authors": [
+                    "Saurabh Jha", "Rohan Arora", "Yuji Watanabe", "Takumi Yanagawa", "Yinfang Chen",
+                    "Jackson Clark", "Bhavya Bhavya", "Mudit Verma", "Harshit Kumar", "Hirokuni Kitahara",
+                    "Noah Zheutlin", "Saki Takano", "Divya Pathak", "Felix George", "Xinbo Wu",
+                    "Bekir O. Turkkan", "Gerard Vanloo", "Michael Nidd", "Ting Dai", "Oishik Chatterjee",
+                    "Pranjal Gupta", "Suranjana Samanta", "Pooja Aggarwal", "Rong Lee", "Pavankumar Murali",
+                    "Jae-wook Ahn", "Debanjana Kar", "Ameet Rahane", "Carlos Fonseca", "Amit Paradkar",
+                    "Yu Deng", "Pratibha Moogi", "Prateeti Mohapatra", "Naoki Abe",
+                    "Chandrasekhar Narayanaswami", "Tianyin Xu", "Lav R. Varshney", "Ruchi Mahindru",
+                    "Anca Sailer", "Laura Shwartz", "Daby Sow", "Nicholas C. M. Fuller", "Ruchir Puri"
+                ],
+                "featured": true,
+                "publication": "In Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)",
+                "awards": ["Spotlight Paper at ICML 2025"],
+                "urls": {
+                    "pdf": "https://arxiv.org/pdf/2502.05352.pdf",
+                    "cite": "/pubs/ICML2025/cite.bib"
+                },
+            "venue": "ICML'25",
+            "pub_type": "conference"
+        },
+
+        {
+            "title": "Characterizing Modern GPU Resilience and Impact in HPC Systems: A Case Study of A100 GPUs",
+            "date": "2025-03-01",
+            "authors": [
+                "Shengkun Cui",
+                "Archit Patke",
+                "Ziheng Chen",
+                "Aditya Ranjan",
+                "Hung Nguyen",
+                "Phuong Cao",
+                "Brett Bodet",
+                "Gregory Bauer",
+                "Saurabh Jha",
+                "Chandra Narayanaswami",
+                "Daby Sow",
+                "Catello Di Martino",
+                "Zbigniew T. Kalbarczyk",
+                "Ravishankar K. Iyer"
+            ],
+            "featured": false,
+            "publication": "In Proceedings of the 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W 2025)",
+            "media_coverage": [],
+            "awards": [],
+            "urls": {
+                "pdf": "pubs/DSN2025/paper.pdf",
+                "cite": "/pubs/DSN2025/cite.bib"
+            },
+            "venue": "DSN'25",
+            "pub_type": "conference"
+        },
+        {
+            "title": "INDIGO: Page Migration for Hardware Memory Disaggregation Across a Network",
+            "date": "2025-03-23",
+            "authors": [
+                "Archit Patke",
+                "Christian Pinto",
+                "Saurabh Jha",
+                "Haoran Qiu",
+                "Zbigniew Kalbarczyk",
+                "Ravishankar Iyer"
+            ],
+            "featured": false,
+            "publication": "In Proceedings of the 39th ACM International Conference on Supercomputing (ICS 2025)",
+            "media_coverage": [],
+            "awards": [],
+            "urls": {
+                "pdf": "https://arxiv.org/pdf/2503.18140.pdf",
+                "cite": "/pubs/ICS2025/cite.bib"
+            },
+            "venue": "ICS'25",
+            "pub_type": "conference"
+        },
+        {
             "title": "Fault Localization Using Interventional Causal Learning for Cloud-Native Applications",
             "date": "2024-05-30",
             "authors": ["Saurabh Jha", "Jesus Rios", "Frank Bagehorn", "Larisa Shwartz", "Naoki Abe"],
