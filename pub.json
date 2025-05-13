@@ -49,7 +49,7 @@
             "media_coverage": [],
             "awards": [],
             "urls": {
-                "pdf": "pubs/DSN2025/paper.pdf",
+                "pdf": "/pubs/DSN2025/paper.pdf",
                 "cite": "/pubs/DSN2025/cite.bib"
             },
             "venue": "DSN'25",
