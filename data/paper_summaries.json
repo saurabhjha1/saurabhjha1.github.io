@@ -1,0 +1,182 @@
+{
+  "cui2025story": {
+    "text": "**** This study investigates the resilience of Hopper H100 and Ampere A100 GPUs within a large-scale AI system, analyzing 2.5 years of operational data. The key finding is that H100 GPUs have worse memory resilience compared to A100 GPUs, with a 3.2x lower mean time between errors (MTBE) for memory issues. However, H100 GPUs show improved hardware resilience in critical components. The study highlights the insufficiency of current error-recovery mechanisms and suggests that significant overprovisioning is necessary to manage GPU failures effectively.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2025itbench": {
+    "text": "**** The paper introduces ITBench, a framework designed to benchmark AI agents in real-world IT automation tasks, addressing the growing complexity of IT systems. ITBench focuses on Site Reliability Engineering, Compliance and Security Operations, and Financial Operations, providing a systematic methodology with interpretable metrics. The study reveals that current AI models resolve only a small fraction of scenarios, highlighting the need for improvement. ITBench aims to enable effective, safe, and rapid AI-driven IT automation.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "cui2025characterizing": {
+    "text": "**** This study investigates the resilience of NVIDIA A40, A100, and H100 GPUs in the Delta high-performance computing system, focusing on GPU failures over two and a half years. The research identifies GPU memory as significantly more reliable than GPU hardware, with the GPU System Processor (GSP) being the most vulnerable component. NVLink errors often do not cause job failures due to effective error handling. The study suggests that improving GPU availability to 99.9% could reduce overprovisioning needs by fourfold, highlighting the importance of resilience in large-scale AI/HPC systems.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "patke2025indigo": {
+    "text": "**** The paper addresses the challenge of increased network contention in hardware memory disaggregation (HMD) systems, which can degrade application performance. The authors introduce INDIGO, a network-aware page migration framework that uses novel page telemetry and a learning-based approach to adapt to network conditions. Implemented in the Linux kernel, INDIGO significantly improves application performance by 50-70% and reduces network traffic by up to 2x compared to existing methods. \n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2024fault": {
+    "text": "**** The paper addresses the challenge of fault localization in cloud-native applications, where microservices' failures can lead to transaction issues. Traditional methods relying on observational data and domain knowledge fall short due to complexity and lack of comprehensive tracing. The authors propose using interventional causal learning, developing a benchmark application called CausalBench to highlight real-world challenges, and adapting the technique to improve fault localization accuracy. Their approach outperforms existing algorithms, offering a more effective solution for identifying faulty microservices.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "cui2024iprism": {
+    "text": "**** The paper addresses the challenge of enhancing autonomous vehicle (AV) safety by introducing iPrism, a framework that quantifies risk using a new metric called the Safety-Threat Indicator (STI). STI assesses risks by measuring changes in escape routes available to AVs, inspired by human drivers' proactive hazard mitigation. iPrism incorporates a reinforcement learning-based Safety-hazard Mitigation Controller (SMC) to implement optimal risk mitigation strategies. Evaluated over 4800 scenarios, iPrism significantly extends lead-time for accident mitigation and reduces accidents by up to 98% compared to baseline methods.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "qiu2024green": {
+    "text": "**** The paper addresses the challenge of achieving net-zero carbon emissions in cloud datacenters while meeting performance and resilience service-level objectives (SLOs). It proposes a joint optimization approach using machine learning to manage the trade-offs between green energy usage and fossil fuels. The key contribution is a scalable formulation that integrates sustainability, resilience, and performance objectives. The study highlights the instability of green energy and the necessity of innovative ML-centric solutions to manage these challenges, aiming to set a new direction for sustainable and resilient cloud operations.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "qiu2024power": {
+    "text": "I'm unable to select a figure based on the image provided. However, I can provide a summary based on the text.\n\n The paper addresses the challenge of reducing energy consumption in deep learning model-serving clusters while maintaining performance. The key contribution is the introduction of \u00b5-Serve, a power-aware model-serving framework that optimizes power usage and model-serving latency/throughput through dynamic GPU frequency scaling. The most significant finding is that \u00b5-Serve achieves up to 61% power reduction without violating service level objectives, demonstrating its effectiveness in production workloads.",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "banerjee2021bayesperf": {
+    "text": "**** The paper addresses the issue of errors in hardware performance counter (HPC) measurements caused by non-deterministic factors like event multiplexing. It introduces BayesPerf, a system leveraging Bayesian statistics to model and infer HPC values as probability distributions, significantly reducing measurement errors. The key technical contribution is the development of a low-latency, low-power accelerator for real-time inference on x86 and ppc64 CPUs. The most significant result is the reduction of average error in HPC measurements from 40.1% to 7.6%, demonstrating improved accuracy in performance monitoring.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "li2020avfuzzer": {
+    "text": "**** AV-FUZZER is a testing framework designed to identify safety violations in autonomous vehicles (AVs) by simulating evolving traffic environments. It uses a genetic algorithm and vehicle dynamics knowledge to optimize perturbations in traffic participants' maneuvers, aiming to minimize AV safety potential. The approach efficiently discovers diverse safety violations by exploiting local optima and varying starting points. Demonstrated on Baidu Apollo, AV-FUZZER identified five distinct safety violations quickly, outperforming existing methods that found at most two. This highlights its potential for integration into AV development cycles.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2022exploiting": {
+    "text": "**** The paper addresses the challenge of detecting silent data corruption in autonomous vehicle (AV) compute systems caused by random hardware faults. It introduces DiverseAV, a low-cost redundancy technique leveraging temporal data diversity to detect such faults. By distributing sensor data in a round-robin manner between two software agents, DiverseAV ensures semantic consistency while maintaining bit-level diversity, enabling effective fault detection with minimal resource overhead. The approach shows promising results in fault injection tests on an open-source AI agent, highlighting its potential for real-world AV applications.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "rios2022localizing": {
+    "text": "**** The paper addresses the challenge of localizing faults in complex microservices applications within cloud environments. It introduces a novel method utilizing distributed tracing to automatically detect and explain faults at the application level. The approach was tested by injecting faults into a benchmark application, demonstrating that the algorithm effectively identifies and localizes the faulty microservice. The study shows that this method outperforms existing fault localization techniques that rely on error logs and graph models, highlighting the advantages of distributed tracing in fault diagnosis.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "yang2024sam": {
+    "text": "**** The paper addresses the challenge of migrating AI for IT operations (AIOps) models across different cloud providers, which is complicated by variations in architecture and data distribution. The authors propose a novel framework, SAM (Subseries Augmentation-based Meta-learning), which uses data augmentation and meta-learning to adapt AIOps models to new cloud environments without retraining from scratch. This approach has been effective in adapting anomaly detectors across various configurations, suggesting its potential for broader applications in automating IT tasks.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "patke2021delay": {
+    "text": "**** The paper addresses congestion in high-performance computing (HPC) systems, which affects application runtime and system utilization. The authors introduce Netscope, a framework using a novel delay sensitivity metric to assess congestion impact on applications. Netscope selectively throttles less congestion-sensitive applications, thereby reducing runtime variability and improving system utility. Evaluations on Cray Aries systems show Netscope reduces application tail runtime by up to 16.3% and enhances median system utility by 12%.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "qui2020firm": {
+    "text": "The paper addresses the challenge of managing resource contention in microservices to prevent latency spikes and SLO violations. It introduces FIRM, a framework that uses telemetry data and machine learning to dynamically detect and mitigate resource contention issues. FIRM effectively reduces SLO violations by up to 16 times and decreases CPU usage by up to 62%, while improving performance predictability by reducing tail latencies by up to 11 times.",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2020live": {
+    "text": "**** The paper addresses the challenge of detecting and diagnosing failures in large-scale high-performance computing (HPC) systems, which often suffer from reliability and resource overload failures. The authors introduce Kaleidoscope, a near real-time framework utilizing hierarchical domain-guided machine learning models to identify failing components, failure modes, and root causes. Deployed on the Blue Waters supercomputer, Kaleidoscope demonstrated high efficacy, localizing 99.3% and identifying root causes for 95.8% of 843 real-world issues with minimal runtime overhead.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "banerjee2020inductive": {
+    "text": "**** The paper addresses the challenge of scheduling workloads on heterogeneous processors in data centers, a task traditionally reliant on application-specific heuristics. The authors introduce Symphony, a framework utilizing a domain-driven Bayesian reinforcement learning model and a sampling-based technique to efficiently compute gradients without full probabilistic inference. This approach significantly reduces the training data and time required, outperforming traditional black-box methods by up to 2.2 times.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2020ml": {
+    "text": "**** The paper addresses the critical issue of security attacks on autonomous vehicles (AVs) that compromise safety, hindering public trust and deployment. The authors introduce RoboTack, a smart malware that strategically modifies sensor data to mislead AV perception, causing safety hazards such as collisions. The key technical contribution is an attack model that determines the optimal timing and method for deploying these attacks. Experimental results show that RoboTack significantly increases forced emergency braking and accidents compared to random attacks, highlighting the severe impact of targeted malware on AV safety.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "kumar2020mystery": {
+    "text": "**** The paper addresses the issue of node downtime and job failures in high-performance computing (HPC) clusters, which lead to resource wastage and user dissatisfaction. By analyzing operational data from two university-wide computing systems, the authors identify correlations between resource usage and job failures. They propose a job failure prediction model to trigger event-driven checkpointing, reducing wasted work. Additionally, they develop user history-based resource usage and runtime prediction models to enhance scheduling decisions, potentially lowering mean queue times. The study provides insights for improving cluster management reliability, highlighting the impact of local and system-wide contention.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2020measuring": {
+    "text": "The paper addresses the lack of quantification of network congestion in high-performance computing systems, which can significantly degrade application performance. The authors introduce Monet, a tool designed to detect, extract, and characterize congestion in credit-based interconnect networks. By applying Monet to the Blue Waters supercomputer, the study provides unprecedented insights into congestion at a large scale, enhancing the understanding and diagnosis of production congestion.",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2020study": {
+    "text": "**** The paper addresses the challenge of network congestion in high-speed interconnects, which causes performance variation in supercomputing applications. It introduces an end-to-end framework for monitoring and analyzing congestion, providing empirical insights into two interconnect technologies: Cray Gemini and Cray Aries. The study highlights the limitations of existing tools that rely on proxy applications and benchmarks, and presents a comprehensive approach using real production data. The significant finding is the identification of persistent congestion hotspots and the impact of link bandwidth heterogeneity on congestion.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2019ml": {
+    "text": "**** The paper addresses the challenge of assessing the safety and resilience of autonomous vehicles (AVs) under accidental faults. It introduces DriveFI, a machine learning-based fault injection engine that identifies critical faults impacting AV safety. DriveFI's Bayesian approach efficiently discovers safety-critical faults, finding 561 such faults in under four hours, compared to weeks of random injection experiments that found none. This demonstrates DriveFI's effectiveness in enhancing AV safety assessment by modeling realistic fault scenarios.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "banerjee2018hands": {
+    "text": "**** This paper investigates the reliability of autonomous vehicles (AVs) by analyzing over a million miles of field data from California DMV reports. The study reveals that AVs are 15 to 4000 times worse than human drivers in terms of accidents per mile. It highlights that AVs' machine-learning systems are responsible for 64% of disengagements, necessitating human drivers to remain as alert as those in non-AVs. The findings emphasize the need for improved AV systems to enhance safety and reliability.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2015main": {
+    "text": "**** The paper investigates the performance of main memory hash joins on Intel Xeon Phi processors, highlighting the need for rethinking database optimization in the many-core era. The key contribution is an experimental comparison of hardware-conscious and hardware-oblivious hash join algorithms on Xeon Phi, revealing that hardware-oblivious algorithms can outperform their counterparts over a wide range of parameters. This finding suggests that new optimization strategies are necessary for Xeon Phi, influencing the design of query processing on many-core architectures.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jafary2021data": {
+    "text": "**** The paper addresses the challenge of modeling reliability in high-performance computing (HPC) systems, where factors like concurrency and heterogeneity complicate traditional approaches. It introduces a hierarchical model that incorporates checkpointing to manage application, network, and system-wide outages, maintaining a linear state space relative to checkpoints. Empirical analysis using data from the Blue Waters supercomputer highlights that reducing network node failure rates significantly decreases application downtime. This model aids in evaluating current and future HPC systems to enhance reliability and performance.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2018resiliency": {
+    "text": "**** The paper addresses the challenge of maintaining resiliency in high-performance computing (HPC) interconnects, focusing on the Gemini network in the Blue Waters supercomputer. It introduces a propagation model to analyze interconnect failures and recovery procedures, revealing that frequent recovery attempts often fail, leading to system-wide outages and application failures. The study highlights the need for improved resiliency mechanisms to minimize disruptions and maintain system availability.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2018avfi": {
+    "text": "**** The paper addresses the need for comprehensive resilience assessment of autonomous vehicles (AVs) by introducing AVFI, a fault injection tool. AVFI tests the robustness of AV systems by simulating faults in sensor inputs, neural networks, and hardware/software components, providing domain-specific failure metrics like traffic violations per kilometer. The tool's key contribution is its ability to empirically validate AV resilience in rarely tested scenarios, influencing AV development and testing. Preliminary results show AVFI's effectiveness in inducing faults that lead to traffic violations, highlighting the importance of failure model experimentation.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "banerjee2019towards": {
+    "text": "**** The paper introduces Bayesian Deep Learning based Fault Injection (BDLFI), a novel methodology to assess fault tolerance in deep neural networks. BDLFI leverages Bayesian Deep Learning to model fault propagation and uses Markov Chain Monte Carlo inference to quantify the impact of faults on neural network outputs. This approach addresses challenges in traditional fault injection methods by providing statistical guarantees of completeness and enabling the use of specialized hardware without extensive system support. The most significant finding is BDLFI's ability to challenge existing results in fault tolerance assessments.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "qiu2021function": {
+    "text": "**** The paper investigates whether Function-as-a-Service (FaaS) is suitable for latency-critical services, focusing on the trade-off between application latency goals and cloud providers' utilization objectives. The study uses production measurements from IBM Cloud and a private cloud to analyze the impact of workload consolidation, queuing delay, and cold starts on latency. A significant finding is that increasing a container's memory from 128 MB to 256 MB reduces tail latency by over two times but increases power consumption by 1.75 times and decreases CPU utilization by 59%.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2021watch": {
+    "text": "**** The paper addresses the challenge of assessing risk in dynamic driving environments where multiple actors influence driving decisions. The authors introduce a novel risk metric to evaluate the importance of each actor based on their potential impact on the ego vehicle's safety and navigation. This metric considers factors like the actor's type, trajectory, and associated uncertainties. The key finding is that some actors pose higher risks, necessitating more attention in safety planning. The paper demonstrates the metric's effectiveness through a case study.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "jha2017holistic": {
+    "text": "**** The paper addresses the challenge of optimizing performance and resilience in high-performance computing (HPC) systems, where complex interactions between hardware and software can lead to significant performance variations and failures. The key contribution is the development of integrated monitoring and analysis capabilities that provide data-driven insights into fault propagation and performance degradation. This approach enables effective mitigation strategies to be implemented by system administrators and software. The most significant finding is the ability to characterize and predict performance impacts, improving resource utilization and fault diagnosis.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "agarwal2013phgrms": {
+    "text": "**** The paper introduces P-HGRMS, a parallel algorithm for removing Salt and Pepper noise from grayscale images, leveraging a Hypergraph Based Root Mean Square approach. By incorporating a cardinality matrix and an iteration factor, the algorithm reduces dependencies and enhances computational efficiency. Tested on standard images using NVIDIA's CUDA, P-HGRMS maintains noise removal efficiency while achieving a 6 to 18 times improvement in computational speed over its sequential counterpart, as measured by Peak Signal to Noise Ratio (PSNR).\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "dimartino2015logdiver": {
+    "text": "**** The paper introduces LogDiver, a novel tool designed to measure application-level resiliency in extreme-scale computing systems. It processes data from various sources like system logs and hardware sensors to classify errors, extract signals, and correlate application failures with errors using empirical and analytical techniques. The tool's significant contribution is its ability to analyze resiliency at the application level, a first in extreme-scale environments. A key finding is that XK applications are more prone to failures than XE applications, demonstrating LogDiver's effectiveness.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "formicola2016understanding": {
+    "text": "**** The paper addresses the challenge of understanding fault-to-failure scenarios in high-performance computing systems, particularly in the Cray XE supercomputer, Cielo. The authors conducted fault injection experiments to analyze failure causes and propagation, focusing on network-related failures. Their key contribution is the development of a systematic approach to inject faults and study their impacts, which helps in identifying critical fault scenarios and improving system resilience. The experiments revealed significant insights into fault propagation and recovery mechanisms, aiding in the design of more robust systems.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "bagehorn2022wolffi": {
+    "text": "**** The paper addresses the challenge of enhancing IT system resiliency amidst increasing complexity and frequent outages by leveraging AI/ML. It introduces WOLFFI, a fault injection platform designed to generate data for building AI/ML models that support IT operations. Key features include ease of use, orchestration of complex fault scenarios, and support for hybrid and multi-cloud environments without requiring programming skills. The platform's significant contribution is its ability to learn error propagation models in micro-service applications, aiding in fault localization and improving operational resilience.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  },
+  "wang2023fault": {
+    "text": "**** The paper addresses the challenge of managing distributed applications by learning communication graphs using interventional causal learning with fault injections. The key contribution is an algorithm that identifies error propagation among application components through programmable interventions in a staging environment. This approach effectively learns communication dependencies and aids in fault localization during runtime. The study demonstrates its success using microservice benchmarks and highlights its deployment in a fault injection framework.\n\n**",
+    "figure": null,
+    "figure_caption": "First page of paper"
+  }
+}

@@ -1,0 +1,221 @@
+
+.header {
+    background-color: #f8f9fa;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-size: larger;
+    padding: 8px 0px;
+    border-bottom: 2px solid #2563eb;
+    margin-bottom: 16px;
+  }
+  .pub-header {
+    background-color: #f8f9fa;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-size: 16pt;
+    text-align: left;
+    padding: 8px 0px;
+    border-bottom: 2px solid #2563eb;
+    margin-bottom: 16px;
+  }
+  
+  .content {
+    /* background-color: #dfefff; */
+  }
+  ul {
+  list-style-type: square;
+  list-style-position: inside;
+  padding: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+  }
+  a {
+    text-decoration: none;
+    color: #2563eb;
+    transition: color 0.2s ease;
+  }
+  a:link, a:visited {
+    color: #2563eb;
+  }
+  a:hover {
+    color: #1d4ed8;
+    transition: color 0.2s ease;
+  }
+  .pub-link {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 3px;
+    padding: 3px 6px;
+    margin: 2px 4px 2px 0;
+    color: #495057;
+    font-size: 13px;
+    transition: all 0.2s ease;
+  }
+  
+  .pub-link:hover {
+    background-color: #2563eb;
+    border-color: #2563eb;
+    color: #ffffff;
+  }
+  
+  div#pub-list ul li {
+  /* padding-bottom: 50px; */
+  margin:0 0 0px 0;
+  }
+  div#pub-list ul {
+  list-style-type: none;
+  }
+  .pub-left{
+  font-weight: bold;
+  text-align: center;
+  font-size: 15pt;
+  color:darkblue;
+  padding: 0;
+  }
+  .pub-right{
+  width: 80%;
+  }
+  .pub-title{
+  font-weight:bolder;
+  font-size: 14pt;
+  }
+  table#pub {
+  border: none;
+  text-align:left;
+  padding: 0;
+  margin: 0;
+  border-collapse: collapse;
+  }
+  td{
+    padding: 10px;
+  }
+  .awards{
+    background-color: #fed7aa;
+    color: #9a3412;
+    font-weight: 600;
+    font-size: 11px;
+    border: 1px solid #fb923c;
+    border-radius: 3px;
+    padding: 3px 6px;
+    margin: 2px 4px 2px 0;
+    display: inline-block;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+  }
+  
+  .awards::before {
+    content: "🏆 ";
+    margin-right: 2px;
+  }
+  .pub-media{
+    background-color: #f1f5f9;
+    color: #475569;
+    font-weight: 500;
+    font-size: 11px;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin: 2px;
+    transition: all 0.2s ease;
+  }
+  
+  .pub-media:hover {
+    background-color: #64748b;
+    color: #ffffff;
+    border-color: #64748b;
+  }
+
+
+  td#short{
+    border-left: 10pt solid rgba(255,221,87,.5);
+  }
+  td#conference{
+    border-left: 10pt solid rgba(126,156,244,.5);
+  }
+  td#journal{
+    border-left: 10pt solid rgba(244,126,156,.5);
+  }
+
+  .justify{
+    text-align: justify;
+  }
+
+  /* Prevent individual links from breaking across lines */
+  .content .pub-link {
+    display: inline-block;
+    white-space: nowrap;
+    margin-right: 4px;
+  }
+
+  /* Auto-add icons to pub-links ONLY on non-publication pages */
+  /* Exclude publications page which already has icons from Hugo shortcode */
+  body:not(.publications-page) .pub-link[href*=".pdf"]::before,
+  body:not(.publications-page) .pub-link[href*="arxiv.org"]::before,
+  body:not(.publications-page) .pub-link[href*="doi.org"]::before,
+  body:not(.publications-page) .pub-link[href*="acm.org"]::before,
+  body:not(.publications-page) .pub-link[href*="ieee.org"]::before,
+  body:not(.publications-page) .pub-link[href*="aaai.org"]::before,
+  body:not(.publications-page) .pub-link[href*="usenix.org"]::before {
+    content: "📄 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[href*="blog"]::before,
+  body:not(.publications-page) .pub-link[href*="announcement"]::before {
+    content: "📢 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[href*="mediacenter"]::before,
+  body:not(.publications-page) .pub-link[href*="interview"]::before {
+    content: "🎤 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[href*="github.com"]::before {
+    content: "💻 " !important;
+  }
+
+  /* Specific data attributes for semantic types - only on non-publication pages */
+  body:not(.publications-page) .pub-link[data-type="paper"]::before {
+    content: "📄 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="announcement"]::before {
+    content: "📢 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="interview"]::before {
+    content: "🎤 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="code"]::before {
+    content: "💻 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="blog"]::before {
+    content: "📰 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="slides"]::before {
+    content: "📊 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="citation"]::before {
+    content: "📝 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="video"]::before {
+    content: "🎥 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="demo"]::before {
+    content: "🎮 " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="poster"]::before {
+    content: "🖼️ " !important;
+  }
+
+  body:not(.publications-page) .pub-link[data-type="talk"]::before {
+    content: "🎙️ " !important;
+  }
