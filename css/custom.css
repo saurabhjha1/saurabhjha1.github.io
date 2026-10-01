@@ -131,7 +131,8 @@
   td#short{
     border-left: 10pt solid rgba(255,221,87,.5);
   }
-  td#conference{
+  td#conference,
+  td#workshop{
     border-left: 10pt solid rgba(126,156,244,.5);
   }
   td#journal{
